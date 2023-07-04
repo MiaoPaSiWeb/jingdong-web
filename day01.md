@@ -5,5 +5,8 @@
 
 ### 2、运行
 
+```ruby
 $ cd jdweb
+
 $ npm run serve
+```
