@@ -49,6 +49,39 @@ pack-lock.json：缓存文件
 3、src 文件夹简写方法。配置别名：@
 使用 cli 创建项目是已经自动配置好了
 
+4、项目路由
+vue-router
+安装：npm i --save vue-router@2
+
+前端所谓路由：KV 键值对
+key：URL(地址栏中的路径)
+value：相应的路由组件
+注意：项目上中下结构
+
+非路由组件：
+Header
+Footer
+
+路由组件：
+LoginView --- 登录
+RegisterPersonView --- 个人注册
+RegisterReView --- 企业注册
+HomeView --- 首页
+SearchResultView --- 搜索结果
+MyJDView --- 我的京东
+
+    MyJdOrder --- 订单
+    MyJdComments --- 评价晒单
+    MyJDChanggou --- 常购商品
+    MyFollow --- 关注中心
+
+5、项目样式
+项目采用 less 样式
+安装：
+
+    npm i --save less
+    npm i --save less-loader
+
 ### 报错总结
 
 Q：eslint 报错：Parsing error: No Babel config file detected 。
