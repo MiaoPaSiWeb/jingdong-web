@@ -1,12 +1,12 @@
 <template>
     <div>
-        这是首页组件
+        个人注册
     </div>
 </template>
 
 <script>
     export default {
-        name:'Home',
+        name:'RegisterPerson'
     }
 </script>
 

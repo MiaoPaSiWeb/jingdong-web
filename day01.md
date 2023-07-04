@@ -74,12 +74,12 @@ Header
 Footer
 
 路由组件：
-LoginView --- 登录
-RegisterPersonView --- 个人注册
-RegisterReView --- 企业注册
-HomeView --- 首页
-SearchResultView --- 搜索结果
-MyJDView --- 我的京东
+Login --- 登录
+RegisterPerson --- 个人注册
+RegisterRe --- 企业注册
+Home --- 首页
+Search --- 搜索
+MyCenter--- 我的京东
 
     MyJdOrder --- 订单
     MyJdComments --- 评价晒单
