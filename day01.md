@@ -40,14 +40,25 @@ pack-lock.json：缓存文件
 改前："serve": "vue-cli-service serve",
 改后："serve": "vue-cli-service serve --open",
 
-2、eslint 校验功能关闭（建议开启！！！）。
-为什么关闭？比如：声明变量但是没有使用，eslint 校验工具会给你报错，导致没法继续开发，如果不是强制要求使用 eslint,我们一般把它关闭。
+2、eslint 校验功能
+2.1 建议开启
 
----在根目录创建 vue.config.js 文件(如果没有，需要创建)：
-添加 lintOnSave: false
+    为什么关闭？比如：声明变量但是没有使用，eslint 校验工具会给你报错，导致没法继续开发，如果不是强制要求使用 eslint,我们一般把它关闭。
+
+    ---在根目录创建 vue.config.js 文件(如果没有，需要创建)：
+    添加 lintOnSave: false
+
+2.2 关闭组件命名规则
+
+    新手在组件命名的时候不够规范，根据官方风格指南，除了根组件（App.vue）外，自定义组件名称应该由多单词组成，防止和 html 标签冲突。而最新的 vue-cli 创建的项目使用了最新的 vue/cli-plugin-eslint 插件，在 vue/cli-plugin-eslint v7.20.0 版本之后就引用了 vue/multi-word-names 规则，所以在编译的时候判定此次错误。
+    "rules": {
+    //关闭组件命名规则
+    "vue/multi-word-component-names": "off"
+    }
 
 3、src 文件夹简写方法。配置别名：@
-使用 cli 创建项目是已经自动配置好了
+
+    使用 cli 创建项目是已经自动配置好了
 
 4、项目路由
 vue-router

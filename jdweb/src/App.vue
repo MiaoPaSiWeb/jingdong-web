@@ -1,28 +1,25 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <JdShortcut />
+    <JdHeader />
+    <JdFooter />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import JdHeader from './components/Header'
+import JdFooter from './components/Footer'
+import JdShortcut from './/components/Shortcut'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    JdShortcut,
+    JdHeader,
+    JdFooter
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
