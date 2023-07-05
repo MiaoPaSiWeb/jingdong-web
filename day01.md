@@ -93,6 +93,10 @@ MyCenter--- 我的京东
     npm i --save less
     npm i --save less-loader
 
+6、网络
+网络库 --- npm i --save axios
+网络进度监听 --- npm i --save nprogress
+
 ### 报错总结
 
 Q：eslint 报错：Parsing error: No Babel config file detected 。

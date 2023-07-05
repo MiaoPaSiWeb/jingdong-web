@@ -17,3 +17,14 @@ Header组件
     京东快报 mock/home/jsonpNews.json
     为你推荐 mock/home/pc_home_feed/result_{$page}.json   page 从 1 开始
 */
+
+
+// 当前这个模块：API进行统一管理
+// 引入封装的axios
+import requests from "./request";
+//获取banner（Home首页轮播图接口）
+export const reqGetBannerList = () => requests({ url: `/home/jsonpFocus.json`, method: 'get' });
+//获取热搜词
+export const reqGetHotWords = () => requests({ url: `/home/jsonpHotWords.json`, method: 'get' });
+
+

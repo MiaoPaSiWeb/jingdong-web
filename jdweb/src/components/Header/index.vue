@@ -18,8 +18,8 @@
                 </div>
                 <div class="hotwords">
                     <ul class="hotwords-wrap clearfix">
-                        <li v-for="(word,index) in hotwords" :key="index" class="fl">
-                            <a href="#">{{word}}</a>
+                        <li v-for="(word,index) in hotwords"  v-show="index <= 6" :key="index" class="fl" >
+                            <a href="#">{{word.n}}</a>
                         </li>
                     </ul>
                 </div>
@@ -42,10 +42,19 @@
         data(){
             return {
                 rightNavDatas:['你好，请登录','我的订单','我的京东','企业采购','商家服务','网站导航','手机京东','网站无障碍'],
-                hotwords:['港荣蒸蛋糕','iPhone14','vivo']
+                hotwords:[]
             };
         },
+        mounted(){
+            this.reqHotWords();
+        },
         methods: {
+            async reqHotWords(){
+                let result = await this.$API.reqGetHotWords();
+                if (result.code == 0) {
+                    this.hotwords = result['data'];
+                }
+            },
             searchHandleClick(){
                 alert("去搜索")
             }
