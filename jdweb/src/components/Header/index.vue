@@ -23,7 +23,14 @@
                         </li>
                     </ul>
                 </div>
-                <div class="navitems"></div>
+                <div class="navitems">
+                    <ul class="clearfix">
+                        <li>111</li>
+                        <li>111</li>
+                        <li>111</li>
+                        <li>111</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -128,6 +135,30 @@
                 &:hover a {
                     color: #e1251b;
                     text-decoration-line: none;
+                }
+            }
+        }
+        .navitems {
+            overflow: hidden;
+            position: absolute;
+            left: 203px;
+            right: 0;
+            bottom: 0;
+            height: 40px;
+            padding-top: 20px;
+            border: 1px red solid;
+            ul {
+                li {
+                    float: left;
+                    position: relative;
+                    display: block;
+                    height: 40px;
+                    line-height: 40px;
+                    font-size: 15px;
+                    color: #333;
+                    margin: 0 11px;
+                    border: 1px red solid;
+
                 }
             }
         }
