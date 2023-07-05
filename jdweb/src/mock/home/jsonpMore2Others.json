@@ -1,0 +1,786 @@
+{
+  "msg": "",
+  "data": [
+    {
+      "data": {
+        "list": [
+          {
+            "text": "金士顿内存",
+            "source": "raising_words"
+          },
+          {
+            "text": "按摩椅",
+            "source": "raising_words"
+          },
+          {
+            "text": "婴儿爬行垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "儿童遥控飞机",
+            "source": "raising_words"
+          },
+          {
+            "text": "篮球鞋",
+            "source": "raising_words"
+          },
+          {
+            "text": "桃核手串",
+            "source": "raising_words"
+          },
+          {
+            "text": "多功能沙发床",
+            "source": "raising_words"
+          },
+          {
+            "text": "一体机电脑",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "紫砂花盆",
+            "source": "raising_words"
+          },
+          {
+            "text": "浴霸",
+            "source": "raising_words"
+          },
+          {
+            "text": "七度空间卫生巾",
+            "source": "raising_words"
+          },
+          {
+            "text": "游戏方向盘",
+            "source": "raising_words"
+          },
+          {
+            "text": "空气净化器",
+            "source": "raising_words"
+          },
+          {
+            "text": "欧式壁灯",
+            "source": "raising_words"
+          },
+          {
+            "text": "厨房碗柜",
+            "source": "raising_words"
+          },
+          {
+            "text": "苏泊尔无烟锅",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "移动路由器",
+            "source": "raising_words"
+          },
+          {
+            "text": "保湿护手霜",
+            "source": "raising_words"
+          },
+          {
+            "text": "高压锅不锈钢",
+            "source": "raising_words"
+          },
+          {
+            "text": "晾衣架",
+            "source": "raising_words"
+          },
+          {
+            "text": "唇彩唇蜜",
+            "source": "raising_words"
+          },
+          {
+            "text": "真丝睡衣",
+            "source": "raising_words"
+          },
+          {
+            "text": "汽车脚垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "电脑写字板",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "无纺布鞋套",
+            "source": "raising_words"
+          },
+          {
+            "text": "电脑桌",
+            "source": "raising_words"
+          },
+          {
+            "text": "电动磨豆机",
+            "source": "raising_words"
+          },
+          {
+            "text": "打印机色带",
+            "source": "raising_words"
+          },
+          {
+            "text": "自动吸尘器",
+            "source": "raising_words"
+          },
+          {
+            "text": "按摩器",
+            "source": "raising_words"
+          },
+          {
+            "text": "保温壶",
+            "source": "raising_words"
+          },
+          {
+            "text": "防水胶",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "汽车坐垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "多美鲜黄油",
+            "source": "raising_words"
+          },
+          {
+            "text": "毛巾",
+            "source": "raising_words"
+          },
+          {
+            "text": "美的电饭煲",
+            "source": "raising_words"
+          },
+          {
+            "text": "薰衣草精油",
+            "source": "raising_words"
+          },
+          {
+            "text": "户外登山鞋",
+            "source": "raising_words"
+          },
+          {
+            "text": "洗碗机家用",
+            "source": "raising_words"
+          },
+          {
+            "text": "微波炉",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "豆浆机",
+            "source": "raising_words"
+          },
+          {
+            "text": "影碟机便携式",
+            "source": "raising_words"
+          },
+          {
+            "text": "活性炭",
+            "source": "raising_words"
+          },
+          {
+            "text": "无损播放器",
+            "source": "raising_words"
+          },
+          {
+            "text": "实木沙发",
+            "source": "raising_words"
+          },
+          {
+            "text": "便携桌椅",
+            "source": "raising_words"
+          },
+          {
+            "text": "电视柜",
+            "source": "raising_words"
+          },
+          {
+            "text": "鱼竿",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "美式浴室柜",
+            "source": "raising_words"
+          },
+          {
+            "text": "鳄鱼皮钱包",
+            "source": "raising_words"
+          },
+          {
+            "text": "移动书架",
+            "source": "raising_words"
+          },
+          {
+            "text": "橄榄调和油",
+            "source": "raising_words"
+          },
+          {
+            "text": "脸部卸妆油",
+            "source": "raising_words"
+          },
+          {
+            "text": "多层保温饭盒",
+            "source": "raising_words"
+          },
+          {
+            "text": "不锈钢水壶",
+            "source": "raising_words"
+          },
+          {
+            "text": "燃气热水器",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "高清线hdmi",
+            "source": "raising_words"
+          },
+          {
+            "text": "蓝牙音箱",
+            "source": "raising_words"
+          },
+          {
+            "text": "跑步机",
+            "source": "raising_words"
+          },
+          {
+            "text": "学习机",
+            "source": "raising_words"
+          },
+          {
+            "text": "电话手表",
+            "source": "raising_words"
+          },
+          {
+            "text": "遛狗绳",
+            "source": "raising_words"
+          },
+          {
+            "text": "黄金项链",
+            "source": "raising_words"
+          },
+          {
+            "text": "不锈钢蒸锅",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "厨房消毒柜",
+            "source": "raising_words"
+          },
+          {
+            "text": "开关插座",
+            "source": "raising_words"
+          },
+          {
+            "text": "功夫茶杯",
+            "source": "raising_words"
+          },
+          {
+            "text": "录音笔",
+            "source": "raising_words"
+          },
+          {
+            "text": "多肉植物种子",
+            "source": "raising_words"
+          },
+          {
+            "text": "自拍杆",
+            "source": "raising_words"
+          },
+          {
+            "text": "独轮平衡车",
+            "source": "raising_words"
+          },
+          {
+            "text": "煲汤锅砂锅",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "户外急救包",
+            "source": "raising_words"
+          },
+          {
+            "text": "白板",
+            "source": "raising_words"
+          },
+          {
+            "text": "电脑散热架",
+            "source": "raising_words"
+          },
+          {
+            "text": "欧式果盘",
+            "source": "raising_words"
+          },
+          {
+            "text": "法兰绒床垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "计算器",
+            "source": "raising_words"
+          },
+          {
+            "text": "电动牙刷",
+            "source": "raising_words"
+          },
+          {
+            "text": "笔记本声卡",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "万宝龙钱包",
+            "source": "raising_words"
+          },
+          {
+            "text": "斯诺克球杆",
+            "source": "raising_words"
+          },
+          {
+            "text": "风信子种球",
+            "source": "raising_words"
+          },
+          {
+            "text": "瑜伽垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "铝框拉杆箱",
+            "source": "raising_words"
+          },
+          {
+            "text": "壁挂音箱",
+            "source": "raising_words"
+          },
+          {
+            "text": "除湿机",
+            "source": "raising_words"
+          },
+          {
+            "text": "自动喂食器",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "苏打水",
+            "source": "raising_words"
+          },
+          {
+            "text": "懒人减肥机",
+            "source": "raising_words"
+          },
+          {
+            "text": "打印机",
+            "source": "raising_words"
+          },
+          {
+            "text": "餐桌",
+            "source": "raising_words"
+          },
+          {
+            "text": "燃气壁挂炉",
+            "source": "raising_words"
+          },
+          {
+            "text": "面膜",
+            "source": "raising_words"
+          },
+          {
+            "text": "电压力锅",
+            "source": "raising_words"
+          },
+          {
+            "text": "摄像头高清",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "面包机",
+            "source": "raising_words"
+          },
+          {
+            "text": "罗汉果茶",
+            "source": "raising_words"
+          },
+          {
+            "text": "电子秤",
+            "source": "raising_words"
+          },
+          {
+            "text": "吸尘器干湿两用",
+            "source": "raising_words"
+          },
+          {
+            "text": "北极星挂钟",
+            "source": "raising_words"
+          },
+          {
+            "text": "爱士堡啤酒",
+            "source": "raising_words"
+          },
+          {
+            "text": "珍珠胸针",
+            "source": "raising_words"
+          },
+          {
+            "text": "蜡烛香薰",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "桂花乌龙茶",
+            "source": "raising_words"
+          },
+          {
+            "text": "橄榄油润肤",
+            "source": "raising_words"
+          },
+          {
+            "text": "无线扩音器",
+            "source": "raising_words"
+          },
+          {
+            "text": "电话交换机",
+            "source": "raising_words"
+          },
+          {
+            "text": "丝塔芙润肤乳",
+            "source": "raising_words"
+          },
+          {
+            "text": "洗面奶",
+            "source": "raising_words"
+          },
+          {
+            "text": "篮球",
+            "source": "raising_words"
+          },
+          {
+            "text": "烤箱",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "哑铃",
+            "source": "raising_words"
+          },
+          {
+            "text": "茶叶",
+            "source": "raising_words"
+          },
+          {
+            "text": "照片扫描仪",
+            "source": "raising_words"
+          },
+          {
+            "text": "飞科剃须刀",
+            "source": "raising_words"
+          },
+          {
+            "text": "广角镜头手机",
+            "source": "raising_words"
+          },
+          {
+            "text": "遮瑕粉底液",
+            "source": "raising_words"
+          },
+          {
+            "text": "容声冰箱",
+            "source": "raising_words"
+          },
+          {
+            "text": "对讲机",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "不锈钢汤锅",
+            "source": "raising_words"
+          },
+          {
+            "text": "多功能仰卧板",
+            "source": "raising_words"
+          },
+          {
+            "text": "固态硬盘",
+            "source": "raising_words"
+          },
+          {
+            "text": "拼装模型",
+            "source": "raising_words"
+          },
+          {
+            "text": "欧式吊灯",
+            "source": "raising_words"
+          },
+          {
+            "text": "自动波箱油",
+            "source": "raising_words"
+          },
+          {
+            "text": "尼龙双肩包",
+            "source": "raising_words"
+          },
+          {
+            "text": "天燃气灶双灶",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "魔术头巾",
+            "source": "raising_words"
+          },
+          {
+            "text": "榨汁机",
+            "source": "raising_words"
+          },
+          {
+            "text": "游戏本",
+            "source": "raising_words"
+          },
+          {
+            "text": "增压花洒喷头",
+            "source": "raising_words"
+          },
+          {
+            "text": "华为手环",
+            "source": "raising_words"
+          },
+          {
+            "text": "衣服烘干机",
+            "source": "raising_words"
+          },
+          {
+            "text": "烧水壶",
+            "source": "raising_words"
+          },
+          {
+            "text": "演唱会望远镜",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "直饮水龙头",
+            "source": "raising_words"
+          },
+          {
+            "text": "养生壶",
+            "source": "raising_words"
+          },
+          {
+            "text": "吹风机静音",
+            "source": "raising_words"
+          },
+          {
+            "text": "记忆棉坐垫",
+            "source": "raising_words"
+          },
+          {
+            "text": "煎饼铛",
+            "source": "raising_words"
+          },
+          {
+            "text": "不粘锅煎锅",
+            "source": "raising_words"
+          },
+          {
+            "text": "无线网卡",
+            "source": "raising_words"
+          },
+          {
+            "text": "防尘鞋架",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "防护眼镜",
+            "source": "raising_words"
+          },
+          {
+            "text": "摩托车跑车",
+            "source": "raising_words"
+          },
+          {
+            "text": "乒乓球拍",
+            "source": "raising_words"
+          },
+          {
+            "text": "脱脂牛奶",
+            "source": "raising_words"
+          },
+          {
+            "text": "应急启动电源",
+            "source": "raising_words"
+          },
+          {
+            "text": "电脑椅",
+            "source": "raising_words"
+          },
+          {
+            "text": "空气炸锅",
+            "source": "raising_words"
+          },
+          {
+            "text": "铝合金门窗",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    },
+    {
+      "data": {
+        "list": [
+          {
+            "text": "泡茶壶",
+            "source": "raising_words"
+          },
+          {
+            "text": "润本蚊香液",
+            "source": "raising_words"
+          },
+          {
+            "text": "充电宝",
+            "source": "raising_words"
+          },
+          {
+            "text": "仙人球防辐射",
+            "source": "raising_words"
+          },
+          {
+            "text": "羽毛球拍",
+            "source": "raising_words"
+          },
+          {
+            "text": "折叠床",
+            "source": "raising_words"
+          },
+          {
+            "text": "鼠标垫护腕",
+            "source": "raising_words"
+          },
+          {
+            "text": "游戏显卡",
+            "source": "raising_words"
+          }
+        ]
+      },
+      "type": "HOTWORDS"
+    }
+  ],
+  "code": 0
+}

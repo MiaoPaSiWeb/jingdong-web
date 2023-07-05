@@ -1,0 +1,280 @@
+{
+  "msg": "",
+  "data": [
+    {
+      "item": "",
+      "productId": "",
+      "name": "手机会场",
+      "bigLink": "//prodev.jd.com/mall/active/Y9FVe619hMoajzqpxky1CQQJAkk/index.html",
+      "ext_columns": {
+        "biclk": "2",
+        "ap": "P7yG8UIQD56apqfSB8/3Mw==",
+        "mcinfo": "04806796-18877349-2501712232-M#0-2-1--58--#1-tb-#300-#pc-home",
+        "url": "//prodev.jd.com/mall/active/Y9FVe619hMoajzqpxky1CQQJAkk/index.html",
+        "desc": "null",
+        "text": "手机会场"
+      },
+      "bakImg_1": "",
+      "num": 5,
+      "bakImg_2": "",
+      "desc": "",
+      "bigImg": "//m.360buyimg.com/babel/jfs/t1/95126/25/28206/31378/63981c5fE30073b1b/7346c2db299d9bad.png",
+      "groupId": "04806796",
+      "smallLink": "$提报备注"
+    },
+    {
+      "item": "",
+      "productId": "",
+      "name": "手机好店",
+      "bigLink": "//prodev.jd.com/mall/active/3HNF5DKia1F6QJdJNaL9ddMWnZCD/index.html?babelChannel=ttt23",
+      "ext_columns": {
+        "biclk": "2",
+        "ap": "Bysn6wft0dnikd/1PGhMww==",
+        "mcinfo": "04806796-18877349-2501715129-M#0-2-1--58--#1-tb-#300-#pc-home",
+        "url": "//prodev.jd.com/mall/active/3HNF5DKia1F6QJdJNaL9ddMWnZCD/index.html?babelChannel=ttt23",
+        "desc": "null",
+        "text": "手机好店"
+      },
+      "bakImg_1": "",
+      "num": 6,
+      "bakImg_2": "",
+      "desc": "",
+      "bigImg": "//m.360buyimg.com/babel/jfs/t1/64377/2/24134/23451/63981c57E14c486b9/1e3c5cbbf2c56d12.png",
+      "groupId": "04806796",
+      "smallLink": "$提报备注"
+    },
+    {
+      "item": [
+        {
+          "sku": "10055606483206",
+          "img": "jfs/t1/172437/6/35880/13247/642b9503F5c2cbd5b/18dfdbebaca80b9a.jpg"
+        },
+        {
+          "sku": "7775710",
+          "img": "jfs/t1/106165/30/14986/331020/5e6e060cE776d0727/ef0bafe7c9f0b8ca.jpg"
+        }
+      ],
+      "productId": "20582209",
+      "name": "电脑数码",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101735784-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//prodev.m.jd.com/mall/active/31XPWPTonxJ9e5YoQ85HS7z8XNYQ/index.html",
+        "desc": "值得买的低价",
+        "text": "电脑数码"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "值得买的低价",
+      "smallLink": "//prodev.jd.com/mall/active/31XPWPTonxJ9e5YoQ85HS7z8XNYQ/index.html?babelChannel=ttt40"
+    },
+    {
+      "item": [
+        {
+          "sku": "100038217150",
+          "img": "jfs/t1/106399/19/27222/168461/625e4ff5Ed4b31b8f/a812bac2c96b9df2.jpg"
+        },
+        {
+          "sku": "10062922386010",
+          "img": "jfs/t1/67215/35/24295/83519/6458892eFb8e8e95e/b06132aae4dea879.jpg"
+        }
+      ],
+      "productId": "09166813",
+      "name": "京东工品购",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084596-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//pro.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html",
+        "desc": "PLUS专享福利",
+        "text": "京东工品购"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "PLUS专享福利",
+      "smallLink": "//prodev.jd.com/mall/active/2LqoVKEW3EU9N6yNNhH4NcwM5vaB/index.html"
+    },
+    {
+      "item": [
+        {
+          "sku": "12319783",
+          "img": "jfs/t14965/127/2551417476/104178/a4f5ac69/5ab210d1Neb966ea3.jpg"
+        },
+        {
+          "sku": "11271547",
+          "img": "jfs/t1/207558/37/26955/73048/635ffd50Eedc8587d/d6b1dd0557fd161e.jpg"
+        }
+      ],
+      "productId": "",
+      "name": "京东图书",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084594-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html",
+        "desc": "专注优质好书",
+        "text": "京东图书"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "专注优质好书",
+      "smallLink": "//pro.jd.com/mall/active/3sAaxodHF7kfo3s95cjxo2UZUxu2/index.html"
+    },
+    {
+      "item": [
+        {
+          "sku": "34217664533",
+          "img": "jfs/t1/203956/32/22596/44002/64392a19F48624be7/5f07eb719b0a9fa9.jpg"
+        },
+        {
+          "sku": "100006136661",
+          "img": "jfs/t1/157173/25/30981/60482/649ceae1Fe885930e/8fc7ca6f673cd1d6.jpg"
+        }
+      ],
+      "productId": "09180074",
+      "name": "京东酒行",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084628-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//prodev.m.jd.com/mall/active/2wL7uXM3xzhMDahJQ6htaietQpNf/index.html",
+        "desc": "享全球美酒品美好生活",
+        "text": "京东酒行"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "享全球美酒品美好生活",
+      "smallLink": "//search.jd.com/Search?keyword=%E9%85%92%E6%B0%B4&enc=utf-8&wq=jiu%20shui&pvid=2a80edee0a9e4174a31b3983e37743ca"
+    },
+    {
+      "item": [
+        {
+          "sku": "100042522918",
+          "img": "jfs/t1/122648/38/34001/29607/64a25a40F5022b9bf/80f87b39e3c32e1f.jpg"
+        },
+        {
+          "sku": "100046816234",
+          "img": "jfs/t1/186605/37/35257/45163/649c17b6Fc391a8ac/f1e3cdedfd30dd17.jpg"
+        }
+      ],
+      "productId": "09180220",
+      "name": "运动户外",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084582-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//pro.m.jd.com/mall/active/oKAAQpTfmbKWmL338JdgxNDeWK2/index.html",
+        "desc": "生命在于运动",
+        "text": "运动户外"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "生命在于运动",
+      "smallLink": "//pro.jd.com/mall/active/oKAAQpTfmbKWmL338JdgxNDeWK2/index.html?babelChannel=ttt28"
+    },
+    {
+      "item": [
+        {
+          "sku": "10022568160385",
+          "img": "jfs/t1/132423/19/11570/85912/5f7c02faEc94e78cc/9019924011bff0ed.jpg"
+        },
+        {
+          "sku": "10020768608514",
+          "img": "jfs/t1/202985/25/34853/106429/64a461faF92c7b935/e34bd31a972e4c91.jpg"
+        }
+      ],
+      "productId": "14511222",
+      "name": "拍拍二手",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084599-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//prodev.m.jd.com/mall/active/LHGZv1DrGkva1jNpUkKFuNFN6oo/index.html",
+        "desc": "大牌1元抢",
+        "text": "拍拍二手"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "大牌1元抢",
+      "smallLink": "//2.jd.com\\"
+    },
+    {
+      "item": [
+        {
+          "sku": "100018312292",
+          "img": "jfs/t1/149367/19/34305/65242/6492bdc8F4d453576/ebbf92532f96abd6.jpg"
+        },
+        {
+          "sku": "100014248931",
+          "img": "jfs/t1/165301/38/35647/44735/648ff40cFae9a4c7c/39452fc4a939df41.jpg"
+        }
+      ],
+      "productId": "09165677",
+      "name": "京东京造",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084598-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//pro.m.jd.com/mall/active/WFJKWrVftPmGdDENfVqJU8BCB5c/index.html",
+        "desc": "京东自有品牌",
+        "text": "京东京造"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "京东自有品牌",
+      "smallLink": "//pro.jd.com/mall/active/WFJKWrVftPmGdDENfVqJU8BCB5c/index.html"
+    },
+    {
+      "item": [
+        {
+          "sku": "10034874893189",
+          "img": "jfs/t1/122380/35/36614/76831/64585232Fd692e596/37ce159ebd6bee2e.jpg"
+        },
+        {
+          "sku": "10035273824981",
+          "img": "jfs/t1/175435/4/34178/114652/64a396dcF747097ab/639e8ef7707e26b2.jpg"
+        }
+      ],
+      "productId": "09170698",
+      "name": "大药房",
+      "bigLink": "",
+      "ext_columns": {
+        "biclk": "1#1365b2bd2c84eeb56620a38419377d4973a9d106-100-619182-1#12351344",
+        "ap": "",
+        "mcinfo": "03312682-08641787-9101084597-M#0-2-1--105--#1-0-#1-12351344#pc-home",
+        "url": "//pro.m.jd.com/mall/active/2btYJRGQbBERp23M6aXGwm1tve3X/index.html",
+        "desc": "购正品药 免费换新",
+        "text": "大药房"
+      },
+      "bakImg_1": "",
+      "bakImg_2": "",
+      "bigImg": "",
+      "groupId": "03312682",
+      "desc": "购正品药 免费换新",
+      "smallLink": "//yiyao.jd.com\\"
+    }
+  ],
+  "code": 0
+}

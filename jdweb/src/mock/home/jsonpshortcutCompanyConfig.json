@@ -1,0 +1,178 @@
+{
+  "msg": "",
+  "data": {
+    "06192036": [
+      {
+        "link": "//b.jd.com/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663622-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//b.jd.com/",
+          "desc": "//b.jd.com/",
+          "text": "企业购"
+        },
+        "id": "06192036",
+        "name": "企业购",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//g.jd.com/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663623-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//g.jd.com/",
+          "desc": "//g.jd.com/",
+          "text": "公共采购"
+        },
+        "id": "06192036",
+        "name": "公共采购",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//mro.jd.com/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663624-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//mro.jd.com/",
+          "desc": "//mro.jd.com/",
+          "text": "工业品"
+        },
+        "id": "06192036",
+        "name": "工业品",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//shang.jd.com/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663625-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//shang.jd.com/",
+          "desc": "//shang.jd.com/",
+          "text": "商用场景馆"
+        },
+        "id": "06192036",
+        "name": "商用场景馆",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//o.jd.com/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663626-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//o.jd.com/?from=topShortCut",
+          "desc": "//o.jd.com/",
+          "text": "礼品卡"
+        },
+        "id": "06192036",
+        "name": "礼品卡",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//pro.jd.com/mall/active/2PhLXzBBkbq1jxoq4u3i8X3njKDF/index.html",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663627-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//pro.jd.com/mall/active/2PhLXzBBkbq1jxoq4u3i8X3njKDF/index.html",
+          "desc": "//pro.jd.com/mall/active/2PhLXzBBkbq1jxoq4u3i8X3njKDF/index.html",
+          "text": "微信企业购"
+        },
+        "id": "06192036",
+        "name": "微信企业购",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//www.vipmro.com/?from=pc_reg&flag=20092431",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663628-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//www.jd.com/",
+          "desc": "//www.vipmro.com/?from=pc_reg&flag=20092431",
+          "text": "工品优选"
+        },
+        "id": "06192036",
+        "name": "工品优选",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//jdjl.jd.com/#/",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663629-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//jdjl.jd.com/#/",
+          "desc": "//jdjl.jd.com/#/",
+          "text": "京东锦礼"
+        },
+        "id": "06192036",
+        "name": "京东锦礼",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//pro.jd.com/mall/active/TD96TBxYmhLYqgH8SAWbSZzngSd/index.html?hdid=_1YMeeNhXjk",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401729558-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//pro.jd.com/mall/active/TD96TBxYmhLYqgH8SAWbSZzngSd/index.html?hdid=_1YMeeNhXjk",
+          "desc": "//pro.jd.com/mall/active/TD96TBxYmhLYqgH8SAWbSZzngSd/index.html?hdid=_1YMeeNhXjk",
+          "text": "企业购专业版"
+        },
+        "id": "06192036",
+        "name": "企业购专业版",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      },
+      {
+        "link": "//vsp.jd.com/intro?entrance=jdpc",
+        "ext_columns": {
+          "biclk": "2",
+          "focustype": "s",
+          "ap": "",
+          "mcinfo": "06192036-18177185-8401663630-M#0-2-1--66--#1-0-#1-#pc-home",
+          "url": "//vsp.jd.com/intro?entrance=jdpc",
+          "desc": "//vsp.jd.com/intro?entrance=jdpc",
+          "text": "大中型客户采购"
+        },
+        "id": "06192036",
+        "name": "大中型客户采购",
+        "srcB": "",
+        "src": "",
+        "type": "material"
+      }
+    ]
+  },
+  "code": 0
+}

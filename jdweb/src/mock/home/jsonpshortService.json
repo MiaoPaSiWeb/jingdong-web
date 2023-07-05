@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "c": 0,
+      "u": "//help.jd.com/index.html",
+      "n": "帮助中心"
+    },
+    {
+      "c": 0,
+      "u": "//myjd.jd.com/afs/indexNew.action?entry=2",
+      "n": "售后服务"
+    },
+    {
+      "c": 0,
+      "u": "//chat.jd.com/jdchat/custom.action ",
+      "n": "在线客服"
+    },
+    {
+      "c": 0,
+      "u": "//myjd-crm.jd.com/opinion/orderList.action",
+      "n": "意见建议"
+    },
+    {
+      "c": 0,
+      "u": "//telpc.jd.com/appoint/telebooking.action",
+      "n": "电话客服"
+    },
+    {
+      "c": 0,
+      "u": "//www.jd.com/contact/service.html",
+      "n": "客服邮箱"
+    },
+    {
+      "c": 0,
+      "u": "https://jrhelp.jd.com/",
+      "n": "金融咨询"
+    },
+    {
+      "c": 0,
+      "u": "//chat.jd.com/jd/chat?entry=jd_web_joybuy",
+      "n": "全球售客服"
+    },
+    {
+      "c": 0,
+      "u": "https://jdcs.jd.com/jdchat/custom.action?entry=jd_web_jdsyqyfw&venderId=1",
+      "n": "企业客服"
+    },
+    {
+      "c": 1,
+      "u": "https://lai.jd.com",
+      "n": "合作招商"
+    },
+    {
+      "c": 1,
+      "u": "https://xue.jd.com/",
+      "n": "学习中心"
+    },
+    {
+      "c": 1,
+      "u": "//shop.jd.com/",
+      "n": "商家后台"
+    },
+    {
+      "c": 1,
+      "u": "//jm.jd.com/index/index.html",
+      "n": "京麦工作台"
+    },
+    {
+      "c": 1,
+      "u": "//helpcenter.jd.com/venderportal/index.html",
+      "n": "商家帮助"
+    },
+    {
+      "c": 1,
+      "u": "//rule.jd.com/rule/index.action",
+      "n": "规则平台"
+    }
+  ]
+}
