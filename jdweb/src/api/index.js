@@ -6,7 +6,8 @@ Shortcut组件
     网站导航弹出框数据：mock/home/jsonpshortcutSitenav.json
     企业采购弹出狂数据：mock/home/jsonpshortcutCompanyConfig.json
 Header组件
-    mock/home/jsonpHotWords.json
+
+    热搜词：mock/home/jsonpHotWords.json
 
 
 首页路由组件
@@ -22,9 +23,11 @@ Header组件
 // 当前这个模块：API进行统一管理
 // 引入封装的axios
 import requests from "./request";
-//获取banner（Home首页轮播图接口）
-export const reqGetBannerList = () => requests({ url: `/home/jsonpFocus.json`, method: 'get' });
 //获取热搜词
 export const reqGetHotWords = () => requests({ url: `/home/jsonpHotWords.json`, method: 'get' });
+//获取banner（Home首页轮播图接口）
+export const reqGetBannerList = () => requests({ url: `/home/jsonpFocus.json`, method: 'get' });
+//获取分类（Home首页分类接口）
+export const reqGetCategoryList = () => requests({ url: `/home/getCategoryCallback.json`, method: 'get' });
 
 
