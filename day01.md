@@ -97,6 +97,10 @@ MyCenter--- 我的京东
 网络库 --- npm i --save axios
 网络进度监听 --- npm i --save nprogress
 
+7、轮播 swiper
+swiper 在 vue2 与 vue3 里使用的版本分界线是 swiper6，也就是 vue2 中使用 swiper6 及其一下版本，npm 版本记录中，我选用了下载次数较多的 5.4.5，中文文档 API<a href="https://www.swiper.com.cn/api/index.html">https://www.swiper.com.cn/api/index.html</a><br>
+具体使用如下：npm i swiper@5.4.5
+
 ### 报错总结
 
 Q：eslint 报错：Parsing error: No Babel config file detected 。

@@ -15,6 +15,16 @@ Vue.config.productionTip = false
 // 使用路由插件
 Vue.use(VueRouter);
 
+// 引入swiper
+import "swiper/css/swiper.css";
+
+
+
+
+
+
+
+
 new Vue({
   render: h => h(App),
   // 注册全局事件总线
