@@ -103,7 +103,19 @@
             </li>
           </ul>
         </div>
-        <div class="J_service"></div>
+        <div class="J_service">
+          <ul>
+            <li class="fl" v-for="(item, index) in service" :key="index">
+              <img class="service_ico_img" :src="item.imgUrl" alt="" />
+              <img
+                class="service_ico_img_hover"
+                :src="item.imgUrlHover"
+                alt=""
+              />
+              <span> {{ item.text }} </span>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -421,6 +433,40 @@ export default {
     }
     .J_service {
       height: 238px;
+      ul {
+        li {
+          position: relative;
+
+          width: 60px;
+          height: 59px;
+          border-right: 1px solid #eee;
+          border-bottom: 1px solid #eee;
+
+          .service_ico_img,
+          .service_ico_img_hover {
+            position: absolute;
+            width: 28px;
+            height: 28px;
+            top: 5px;
+            left: 16px;
+          }
+          .service_ico_img_hover {
+            display: none;
+          }
+          span {
+            position: absolute;
+            width: 100%;
+            text-align: center;
+            bottom: 5px;
+          }
+
+          &:hover {
+            .service_ico_img_hover {
+              display: block;
+            }
+          }
+        }
+      }
     }
   }
 }
