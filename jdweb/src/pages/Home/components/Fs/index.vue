@@ -44,8 +44,8 @@
         <div class="test"></div>
       </div>
       <div class="fs_col2 clearfix">
-        <!--banner轮播-->
         <div class="sliderBannerWrapper">
+          <!--banner轮播-->
           <div class="swiper-container" id="mySwiper">
             <div class="swiper-wrapper">
               <div
@@ -230,8 +230,8 @@ export default {
 <style lang="less" scoped>
 .fs_inner {
   margin-top: 15px;
+  margin-bottom: 20px;
   height: 470px;
-
   .fs_col1 {
     position: relative;
     float: left;

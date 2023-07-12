@@ -13,7 +13,7 @@ Header组件
 首页路由组件
     轮播 mock/home/jsonpFocus.json
     左侧分类 mock/home/getCategoryCallback.json
-    秒杀数据   mock/home/pc_seckill.json
+    秒杀数据   mock/h5st/source/pc_seckill.json
     频道广场 mock/home/jsonpMarket.json
     京东快报 mock/home/jsonpNews.json
     京东服务 mock/home/jsonpService.json
@@ -34,3 +34,5 @@ export const reqGetCategoryList = () => requests({ url: `/home/getCategoryCallba
 export const reqGetNewsList = () => requests({ url: `/home/jsonpNews.json`, method: 'get' });
 //获取服务（Home首页服务接口）
 export const reqGetServiceList = () => requests({ url: `/home/jsonpService.json`, method: 'get' });
+//获取秒杀（Home首页秒杀接口）
+export const reqGetSeckillList = () => requests({ url: `/h5st/source/pc_seckill.json`, method: 'get' });

@@ -2,12 +2,14 @@
   <div>
     <div class="w">
       <Fs />
+      <MiaoSha />
     </div>
   </div>
 </template>
 
 <script>
 import Fs from "@/pages/Home/components/Fs";
+import MiaoSha from "@/pages/Home/components/MiaoSha";
 export default {
   name: "Home",
   data() {
@@ -15,6 +17,7 @@ export default {
   },
   components: {
     Fs,
+    MiaoSha,
   },
   //   mounted() {
   //     this.getBannerListData();
