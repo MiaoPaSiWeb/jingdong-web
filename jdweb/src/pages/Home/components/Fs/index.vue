@@ -104,8 +104,13 @@
           </ul>
         </div>
         <div class="J_service">
-          <ul>
-            <li class="fl" v-for="(item, index) in service" :key="index">
+          <ul class="clearfix">
+            <li
+              class="fl"
+              v-for="(item, index) in service"
+              :key="index"
+              @click="srviceHandleClick(item)"
+            >
               <img class="service_ico_img" :src="item.imgUrl" alt="" />
               <img
                 class="service_ico_img_hover"
@@ -130,7 +135,6 @@ export default {
     return {
       categoryNavList: [],
       category: {},
-      showCategoryPop: false,
       bannerList: [],
       sliderRecommend: [],
       news: [],
@@ -163,14 +167,11 @@ export default {
       let result = await this.$API.reqGetServiceList();
       this.service = result.data || [];
     },
-
     categoryNavMouse(type, category) {
       this.category = category;
-      if (type == 1) {
-        this.showCategoryPop = true;
-      } else if (type == 2) {
-        this.showCategoryPop = false;
-      }
+    },
+    srviceHandleClick(item) {
+      alert(item.text);
     },
   },
   computed: {
@@ -436,9 +437,8 @@ export default {
       ul {
         li {
           position: relative;
-
           width: 60px;
-          height: 59px;
+          height: 58px;
           border-right: 1px solid #eee;
           border-bottom: 1px solid #eee;
 
@@ -458,6 +458,7 @@ export default {
             width: 100%;
             text-align: center;
             bottom: 5px;
+            cursor: pointer;
           }
 
           &:hover {
