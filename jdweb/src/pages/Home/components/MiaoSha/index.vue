@@ -19,7 +19,7 @@
                   </span>
                 </div>
                 <div class="seckill-item__price">
-                  <span class="price">￥190.4</span>
+                  <span class="price">￥{{ carouser.miaoShaPrice }}</span>
                 </div>
               </li>
             </ul>
@@ -157,7 +157,6 @@ export default {
           }
           .seckill-item__price {
             box-sizing: border-box;
-            border: 1px solid red;
             text-align: center;
             width: 160px;
             height: 24px;
@@ -169,7 +168,6 @@ export default {
             span {
               text-align: center;
               box-sizing: border-box;
-              border: 1px solid red;
             }
           }
         }
