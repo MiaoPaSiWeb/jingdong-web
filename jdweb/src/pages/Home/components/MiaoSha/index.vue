@@ -35,7 +35,11 @@
     </div>
     <div class="seckill_entry">
       <div class="bg">
-        <img :src="brandInfo.goodsInfo.imageurl" alt="" />
+        <img
+          v-if="brandInfo.goodsInfo"
+          :src="brandInfo.goodsInfo.imageurl"
+          alt=""
+        />
       </div>
     </div>
   </div>

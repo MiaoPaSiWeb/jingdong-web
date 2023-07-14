@@ -36,3 +36,5 @@ export const reqGetNewsList = () => requests({ url: `/home/jsonpNews.json`, meth
 export const reqGetServiceList = () => requests({ url: `/home/jsonpService.json`, method: 'get' });
 //获取秒杀（Home首页秒杀接口）
 export const reqGetSeckillList = () => requests({ url: `/h5st/source/pc_seckill.json`, method: 'get' });
+//获取频道广场（Home首页频道广场接口）
+export const reqGetjsonpMarket = () => requests({ url: `/home/jsonpMarket.json`, method: 'get' });

@@ -3,6 +3,7 @@
     <div class="w">
       <Fs />
       <MiaoSha />
+      <Channel />
     </div>
   </div>
 </template>
@@ -10,6 +11,7 @@
 <script>
 import Fs from "@/pages/Home/components/Fs";
 import MiaoSha from "@/pages/Home/components/MiaoSha";
+import Channel from "@/pages/Home/components/Channel";
 export default {
   name: "Home",
   data() {
@@ -18,6 +20,7 @@ export default {
   components: {
     Fs,
     MiaoSha,
+    Channel,
   },
   //   mounted() {
   //     this.getBannerListData();
