@@ -128,45 +128,22 @@
 
 <script>
 import Swiper from "swiper";
+import { mapState } from "vuex";
 
 export default {
   name: "Fs",
   data() {
     return {
-      categoryNavList: [],
       category: {},
-      bannerList: [],
-      sliderRecommend: [],
-      news: [],
-      service: [],
     };
   },
   mounted() {
-    this.getBannerListData();
-    this.getCategoryListData();
-    this.getNewsListData();
-    this.getServiceListData();
+    this.$store.dispatch("getBannerListData");
+    this.$store.dispatch("getCategoryListData");
+    this.$store.dispatch("getNewsListData");
+    this.$store.dispatch("getServiceListData");
   },
   methods: {
-    async getBannerListData() {
-      let result = await this.$API.reqGetBannerList();
-      if (result.code == 0) {
-        this.bannerList = result.data;
-        this.sliderRecommend = result.data;
-      }
-    },
-    async getCategoryListData() {
-      let result = await this.$API.reqGetCategoryList();
-      this.categoryNavList = result.data || [];
-    },
-    async getNewsListData() {
-      let result = await this.$API.reqGetNewsList();
-      this.news = result.data || [];
-    },
-    async getServiceListData() {
-      let result = await this.$API.reqGetServiceList();
-      this.service = result.data || [];
-    },
     categoryNavMouse(type, category) {
       this.category = category;
     },
@@ -175,6 +152,13 @@ export default {
     },
   },
   computed: {
+    ...mapState({
+      categoryNavList: (state) => state.home.categoryNavList,
+      bannerList: (state) => state.home.bannerList,
+      sliderRecommend: (state) => state.home.sliderRecommend,
+      news: (state) => state.home.news,
+      service: (state) => state.home.service,
+    }),
     rightCategoryList() {
       let totalList = [];
       if (this.category.s) {

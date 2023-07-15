@@ -20,24 +20,22 @@
 
 <script>
 import Floorhd from "@/components/Floorhd";
+import { mapState } from "vuex";
+
 export default {
   name: "Channel",
   components: { Floorhd },
   data() {
-    return {
-      jsonpMarket: [],
-    };
+    return {};
   },
   mounted() {
-    this.getjsonpMarketData();
+    this.$store.dispatch("getjsonpMarketData");
   },
-  methods: {
-    async getjsonpMarketData() {
-      let result = await this.$API.reqGetjsonpMarket();
-      if (result.code == 0) {
-        this.jsonpMarket = result.data;
-      }
-    },
+  methods: {},
+  computed: {
+    ...mapState({
+      jsonpMarket: (state) => state.home.jsonpMarket,
+    }),
   },
 };
 </script>

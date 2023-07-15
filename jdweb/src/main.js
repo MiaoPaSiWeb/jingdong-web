@@ -20,7 +20,8 @@ import "swiper/css/swiper.css";
 
 
 
-
+// 映入仓库
+import store from "@/store";
 
 
 
@@ -34,4 +35,7 @@ new Vue({
   },
   // 配置路由
   router: router,
+  // 注册仓库
+  store: store,
+
 }).$mount('#app')
