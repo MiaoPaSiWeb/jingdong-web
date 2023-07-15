@@ -4,6 +4,7 @@
       <Fs />
       <MiaoSha />
       <Channel />
+      <Feeds />
     </div>
   </div>
 </template>
@@ -12,6 +13,8 @@
 import Fs from "@/pages/Home/components/Fs";
 import MiaoSha from "@/pages/Home/components/MiaoSha";
 import Channel from "@/pages/Home/components/Channel";
+import Feeds from "@/pages/Home/components/Feeds";
+
 export default {
   name: "Home",
   data() {
@@ -21,6 +24,7 @@ export default {
     Fs,
     MiaoSha,
     Channel,
+    Feeds,
   },
   //   mounted() {
   //     this.getBannerListData();

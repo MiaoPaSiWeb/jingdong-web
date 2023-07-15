@@ -1,6 +1,6 @@
 <template>
   <div class="wraper">
-    <Floorhd hdtit="频道广场"></Floorhd>
+    <Floorhd hdtit="为你推荐"></Floorhd>
     <div class="masonry" v-if="jsonpMarket.length == 10">
       <div
         class="item"
@@ -20,8 +20,9 @@
 
 <script>
 import Floorhd from "@/components/Floorhd";
+
 export default {
-  name: "Channel",
+  name: "Feeds",
   components: { Floorhd },
   data() {
     return {
