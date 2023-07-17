@@ -34,9 +34,13 @@ export default {
   },
   methods: {
     async getjsonpMarketData() {
-      let result = await this.$API.reqGetjsonpMarket();
-      if (result.code == 0) {
-        this.jsonpMarket = result.data;
+      try {
+        let result = await this.$API.reqGetjsonpMarket();
+        if (result.code == 0) {
+          this.jsonpMarket = result.data;
+        }
+      } catch (error) {
+        console.log(error);
       }
     },
   },

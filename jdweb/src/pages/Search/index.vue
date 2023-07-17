@@ -1,15 +1,11 @@
 <template>
-    <div>
-        这是Search组件
-    </div>
+  <div>这是Search组件</div>
 </template>
 
 <script>
-    export default {
-        name:'Search'
-    }
+export default {
+  name: "Search",
+};
 </script>
 
-<style lang="less" scoped>
-
-</style>
+<style lang="less" scoped></style>
