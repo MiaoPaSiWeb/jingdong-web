@@ -38,7 +38,7 @@
           <div>{{ index }}</div>
         </div>
       </div>
-      <div ref="loading">加载中</div>
+      <div ref="loading" class="loading">加载中。。。</div>
     </div>
   </div>
 </template>
@@ -136,6 +136,7 @@ div {
     width: 1080px;
     display: flex;
     flex-direction: row;
+
     .feed-tab__item {
       position: relative;
       width: 180px;
@@ -181,6 +182,7 @@ div {
 
   .content {
     border: 1px solid red;
+    background-color: #e3e4e5;
 
     .feed-item {
       border: 1px solid red;
@@ -190,7 +192,7 @@ div {
       height: 322px;
       margin-right: 10px;
       margin-bottom: 10px;
-
+      background: #fff;
       img {
         width: 80%;
         aspect-ratio: 1;
@@ -244,6 +246,12 @@ div {
         margin-right: 0;
       }
     }
+  }
+
+  .loading {
+    text-align: center;
+    padding: 12px 0;
+    font-size: 18px;
   }
 }
 </style>

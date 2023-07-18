@@ -7,6 +7,7 @@ body {
   background-color: #e3e4e5;
 }
 
+/** 文本显示 **/
 .jd-common-title {
   word-break: break-all;
   text-overflow: ellipsis;
