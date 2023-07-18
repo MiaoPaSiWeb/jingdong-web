@@ -102,3 +102,10 @@ export const reqGetSeckillList = () =>
 //获取频道广场（Home首页频道广场接口）
 export const reqGetjsonpMarket = () =>
   mock_requests({ url: `/home/jsonpMarket.json`, method: "get" });
+
+//获取Feed（Home首页Feed接口）
+export const reqGetHomeFeed = (page) =>
+  mock_requests({
+    url: `/home/pc_home_feed/result_${page}.json`,
+    method: "get",
+  });
