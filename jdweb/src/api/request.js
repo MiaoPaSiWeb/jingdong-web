@@ -39,7 +39,7 @@ requests.interceptors.response.use(
   (error) => {
     nprogress.done();
     console.log(error);
-    return Promise.reject(new Error("faile")); //响应失败的回调函数 终止promise链
+    return Promise.reject(error); //响应失败的回调函数 终止promise链
   }
 );
 export default requests;

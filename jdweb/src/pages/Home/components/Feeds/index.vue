@@ -20,6 +20,9 @@
           </div>
         </div>
       </div>
+      <div style="height: 15px; width: 100%; background-color: #e3e4e5">
+        ???
+      </div>
       <div class="content clearfix">
         <div
           class="feed-item"
@@ -35,10 +38,12 @@
             <i>￥</i>
             <span class="more2_info_price_txt">{{ carouser.jp }}</span>
           </p>
-          <div>{{ index }}</div>
+          <div class="see-more"><p>查看更多</p></div>
         </div>
       </div>
-      <div ref="loading" class="loading">加载中。。。</div>
+      <div ref="loading" class="loading">
+        {{ isNoMore ? "加载完毕" : "加载中。。。" }}
+      </div>
     </div>
   </div>
 </template>
@@ -64,6 +69,7 @@ export default {
       io: null,
       testArr: [],
       isLoading: false,
+      isNoMore: false,
       page: 0,
     };
   },
@@ -95,7 +101,7 @@ export default {
     // 触发监听回调
     sayDebounce(entry) {
       let isShow = entry.isIntersecting;
-      if (isShow && !this.isLoading) {
+      if (isShow && !this.isLoading && !this.isNoMore) {
         this.page++;
         this.getFeedListData();
       }
@@ -112,12 +118,15 @@ export default {
         console.log("加载结束 ---- ");
         this.isLoading = false;
       } catch (error) {
-        console.log("加载失败 ---- ", error);
+        console.log("加载失败 ---- ", error.response);
         this.page--;
         if (this.page < 0) {
           this.page = 0;
         }
         this.isLoading = false;
+        if (error.response && error.response.status == 404) {
+          this.isNoMore = true;
+        }
       }
     },
   },
@@ -181,11 +190,9 @@ div {
   }
 
   .content {
-    border: 1px solid red;
     background-color: #e3e4e5;
 
     .feed-item {
-      border: 1px solid red;
       position: relative;
       float: left;
       width: 19.32%;
@@ -242,8 +249,27 @@ div {
         }
       }
 
+      .see-more {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(153, 102, 153, 0.3);
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        visibility: hidden;
+      }
+
       &:nth-child(5n) {
         margin-right: 0;
+      }
+      // 鼠标悬浮
+      &:hover {
+        .see-more {
+          visibility: visible;
+        }
       }
     }
   }
