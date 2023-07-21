@@ -1,0 +1,4794 @@
+{
+  "result": {
+    "categorys": [
+      {
+        "cid2": [
+          {
+            "name": "文具",
+            "id": "729"
+          },
+          {
+            "name": "电脑整机",
+            "id": "671"
+          },
+          {
+            "name": "电子教育",
+            "id": "12346"
+          },
+          {
+            "name": "电脑组件",
+            "id": "677"
+          },
+          {
+            "name": "游戏设备",
+            "id": "12800"
+          },
+          {
+            "name": "外设产品",
+            "id": "686"
+          },
+          {
+            "name": "奢侈品",
+            "id": "2615"
+          },
+          {
+            "name": "精品男包",
+            "id": "2576"
+          },
+          {
+            "name": "功能箱包",
+            "id": "2577"
+          },
+          {
+            "name": "潮流女包",
+            "id": "2575"
+          }
+        ]
+      },
+      {
+        "cid3": [
+          {
+            "name": "本册/便签",
+            "id": "7371"
+          },
+          {
+            "name": "笔记本",
+            "id": "672"
+          },
+          {
+            "name": "游戏本",
+            "id": "1105"
+          },
+          {
+            "name": "平板电脑",
+            "id": "2694"
+          },
+          {
+            "name": "办公文具",
+            "id": "4837"
+          },
+          {
+            "name": "学生文具",
+            "id": "1449"
+          },
+          {
+            "name": "笔记本配件",
+            "id": "675"
+          },
+          {
+            "name": "电纸书",
+            "id": "1203"
+          },
+          {
+            "name": "笔类",
+            "id": "2603"
+          },
+          {
+            "name": "键盘",
+            "id": "689"
+          }
+        ]
+      }
+    ],
+    "itemTagInfo": {
+      "10051824676819": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068871524181": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051887025983": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051887025980": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051878223627": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10067916546513": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068930281700": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10077720352800": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068636744398": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051878223623": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676816": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676817": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10036350268601": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068636744399": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676818": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "67361008328": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068930281701": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10069249855618": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676830": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10071498234903": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10052320493508": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10066676931840": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "37669022166": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10064111991175": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051887025976": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051887025974": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051887025972": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10077720352795": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10048425894712": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10077720352796": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676822": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068398987315": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051814391547": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068636744401": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10077720352798": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676824": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10077720352799": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068871524179": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10054239310675": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068638045231": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10066676931836": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10055562660748": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068883097811": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10051824676820": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10057565338634": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068878172322": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10068878172323": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": false,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      },
+      "10052888423426": {
+        "quaTrace": false,
+        "plus95": false,
+        "selfDD": false,
+        "fxg": false,
+        "couponTag": "",
+        "jdExp": false,
+        "reductionTag": true,
+        "giftTag": false,
+        "self": false,
+        "farfetch": false,
+        "fzxp": false,
+        "jdChoose": false
+      }
+    },
+    "brands": [
+      {
+        "id": 172902,
+        "logoUrl": "jfs/t1/167575/24/8596/3593/603f1a89E33c9a538/976cfcf44de6edbe.png",
+        "name": "联想（lenovo）",
+        "py": "L"
+      },
+      {
+        "id": 7707,
+        "logoUrl": "jfs/t1/100368/33/13292/7167/5e55d49eE89a3dcb0/f1599e5483ea0c22.jpg",
+        "name": "国誉（KOKUYO）",
+        "py": "G"
+      },
+      {
+        "id": 172761,
+        "logoUrl": "jfs/t1/42555/24/11711/3073/5d53c164E7c86b7a5/db9725025cffb6c0.jpg",
+        "name": "惠普（HP）",
+        "py": "H"
+      },
+      {
+        "id": 190775,
+        "logoUrl": "jfs/t5734/66/8958452339/6938/b84b1828/59804402N1c4e5159.jpg",
+        "name": "戴尔（DELL）",
+        "py": "D"
+      },
+      {
+        "id": 144162,
+        "logoUrl": "jfs/t16144/164/7107303/3935/b968dfb9/5a25249dN279cc35d.jpg",
+        "name": "华硕（ASUS）",
+        "py": "A"
+      },
+      {
+        "id": 14026,
+        "logoUrl": "jfs/t2989/240/151377693/3895/30ad9044/574d36dbN262ef26d.jpg",
+        "name": "Apple",
+        "py": "A"
+      },
+      {
+        "id": 8354,
+        "logoUrl": "jfs/t6052/124/7585916571/7840/afb71593/5980336dNcac38fe3.jpg",
+        "name": "宏碁（acer）",
+        "py": "H"
+      },
+      {
+        "id": 17193,
+        "logoUrl": "jfs/t1/160632/27/8133/2533/6038d3f5E73567aa5/4fb29fe648d042b7.jpg",
+        "name": "外星人（Alienware）",
+        "py": "W"
+      },
+      {
+        "id": 181654,
+        "logoUrl": "jfs/t5845/178/8836286948/2234/89d70e34/59804dc4N6fe9da1f.jpg",
+        "name": "微软（Microsoft）",
+        "py": "M"
+      },
+      {
+        "id": 164920,
+        "logoUrl": "jfs/t2830/42/1246856630/3519/736447b0/5739678aN679faf0d.jpg",
+        "name": "LG",
+        "py": "L"
+      },
+      {
+        "id": 17443,
+        "logoUrl": "jfs/t1/41752/14/12912/8765/5d634c72E6fb9c65b/3492d3df043975e3.jpg",
+        "name": "微星（MSI）",
+        "py": "W"
+      },
+      {
+        "id": 15127,
+        "logoUrl": "jfs/t1/1534/38/9873/3556/5bc93df2E73c40121/74dc92d16e483509.jpg",
+        "name": "三星（SAMSUNG）",
+        "py": "S"
+      },
+      {
+        "id": 63833,
+        "logoUrl": "jfs/t6046/194/7710545184/3732/18988f10/598128caN402e1463.jpg",
+        "name": "雷蛇（Razer）",
+        "py": "L"
+      },
+      {
+        "id": 492911,
+        "logoUrl": "",
+        "name": "魔力斯奇那",
+        "py": "M"
+      },
+      {
+        "id": 168909,
+        "logoUrl": "jfs/t1/101967/29/22694/5382/6200e141E76751ed0/b1e9f433f03ef8d9.png",
+        "name": "LAMY",
+        "py": "L"
+      },
+      {
+        "id": 765386,
+        "logoUrl": "",
+        "name": "ABYSTYLE the fan experience",
+        "py": "A"
+      },
+      {
+        "id": 6580,
+        "logoUrl": "jfs/t3739/218/2131216882/3303/d6036243/58451e35Nf2869499.jpg",
+        "name": "DELSEY",
+        "py": "D"
+      },
+      {
+        "id": 3267,
+        "logoUrl": "jfs/t3952/304/243691592/1857/87d1dcf/58451e07Ndf634d6f.jpg",
+        "name": "爱可乐（Echolac）",
+        "py": "A"
+      },
+      {
+        "id": 169588,
+        "logoUrl": "jfs/t2458/315/2153417538/12751/2ff4e617/56b15fe9Naae1551d.jpg",
+        "name": "夏普",
+        "py": "S"
+      },
+      {
+        "id": 7601,
+        "logoUrl": "jfs/t1891/206/955908295/17706/56952d1d/563c0d93N51c3983b.jpg",
+        "name": "冠军（Champion）",
+        "py": "G"
+      },
+      {
+        "id": 154143,
+        "logoUrl": "jfs/t1885/322/955472385/13249/4d6e219a/563ad35aN02849788.jpg",
+        "name": "JRC",
+        "py": "J"
+      },
+      {
+        "id": 161930,
+        "logoUrl": "jfs/t1/116286/17/25166/1719/62836854E5e5bb920/952cad2b39a69d61.png",
+        "name": "珑骧（LONGCHAMP）",
+        "py": "L"
+      },
+      {
+        "id": 10107,
+        "logoUrl": "jfs/t1/4054/10/11278/6475/5bce7befE7bea44bd/3ddbbc82eeb17b51.png",
+        "name": "卡西欧（CASIO）",
+        "py": "K"
+      },
+      {
+        "id": 360064,
+        "logoUrl": "",
+        "name": "NEUMANN",
+        "py": "N"
+      },
+      {
+        "id": 17317,
+        "logoUrl": "jfs/t1/22286/11/4999/3027/5c386da5Ede2ec278/eef19e2e00661df1.jpg",
+        "name": "网件（NETGEAR）",
+        "py": "W"
+      },
+      {
+        "id": 8156,
+        "logoUrl": "jfs/t1/10067/2/9182/16641/5c3f0214E55b05fd4/632dac2291db5b7d.jpg",
+        "name": "和冠（Wacom）",
+        "py": "H"
+      },
+      {
+        "id": 22474,
+        "logoUrl": "jfs/t763/293/686822724/6807/edc58dd5/54cf3f62N39c2056c.png",
+        "name": "摩豹（Motospeed）",
+        "py": "M"
+      },
+      {
+        "id": 606176,
+        "logoUrl": "",
+        "name": "Beckmann",
+        "py": "B"
+      },
+      {
+        "id": 17191,
+        "logoUrl": "jfs/t2098/212/975545834/6703/aedc4784/56397cf7Nbf860189.jpg",
+        "name": "Diplomat",
+        "py": "D"
+      },
+      {
+        "id": 187690,
+        "logoUrl": "",
+        "name": "汤姆 布朗（THOM BROWNE）",
+        "py": "T"
+      },
+      {
+        "id": 90664,
+        "logoUrl": "jfs/t2752/67/29406294/16371/60e49dec/56fc8226Nb6cff2b8.jpg",
+        "name": "RK",
+        "py": "R"
+      },
+      {
+        "id": 134631,
+        "logoUrl": "jfs/t5752/21/8792052044/15937/fb2d2af4/59804cedN4fbd5c18.jpg",
+        "name": "明基（BenQ）",
+        "py": "B"
+      },
+      {
+        "id": 40133,
+        "logoUrl": "jfs/t22711/360/2423218616/2636/df1001ec/5b7e15d3N206146f7.png",
+        "name": "Tombow",
+        "py": "Q"
+      },
+      {
+        "id": 12286,
+        "logoUrl": "jfs/t5749/40/5406239065/2579/810725dc/5960bf86Nf97e59a1.jpg",
+        "name": "漫步者（EDIFIER）",
+        "py": "M"
+      },
+      {
+        "id": 407069,
+        "logoUrl": "jfs/t24973/347/1612496813/14109/2ea9b018/5bb720a2N7c357bf4.jpg",
+        "name": "巍德（VAUDE）",
+        "py": "W"
+      },
+      {
+        "id": 112059,
+        "logoUrl": "jfs/t1258/266/252778095/3932/82f14bfa/551a38c5N9a1008e4.jpg",
+        "name": "OGIO",
+        "py": "O"
+      },
+      {
+        "id": 6121,
+        "logoUrl": "jfs/t2857/119/2523048541/5018/31e84446/576893ffN70a67b3b.jpg",
+        "name": "迪士尼（Disney）",
+        "py": "D"
+      },
+      {
+        "id": 7419,
+        "logoUrl": "jfs/t2923/78/668596611/2370/afa63881/57624c0aN17c18cb3.png",
+        "name": "GREGORY",
+        "py": "G"
+      },
+      {
+        "id": 10683,
+        "logoUrl": "jfs/t2956/246/133532853/3702/7afed1d4/574cfc91N3c5d81b0.jpg",
+        "name": "匡威（Converse）",
+        "py": "K"
+      },
+      {
+        "id": 348,
+        "logoUrl": "jfs/t1/4428/40/11182/16748/5bcec982Ee1d8d8c2/2f9f10c97dbc0665.jpg",
+        "name": "BOOX",
+        "py": "B"
+      },
+      {
+        "id": 1810,
+        "logoUrl": "jfs/t451/159/1010691900/2399/2ac4bfe3/54a107c9Nd6248c39.png",
+        "name": "Mophie",
+        "py": "M"
+      },
+      {
+        "id": 673702,
+        "logoUrl": "",
+        "name": "FARVIS",
+        "py": "F"
+      },
+      {
+        "id": 51421,
+        "logoUrl": "jfs/t1/8018/19/1115/7407/5bcd9aa4E95dad003/9c7f1a31c5274428.png",
+        "name": "Kindle",
+        "py": "K"
+      },
+      {
+        "id": 223198,
+        "logoUrl": "",
+        "name": "Corsair",
+        "py": "C"
+      },
+      {
+        "id": 166082,
+        "logoUrl": "jfs/t9322/304/768057285/2510/3ed229dc/59ae86bdNd2cb202a.jpg",
+        "name": "森海塞尔（Sennheiser）",
+        "py": "S"
+      },
+      {
+        "id": 15090,
+        "logoUrl": "",
+        "name": "三丽鸥（SANRIO）",
+        "py": "S"
+      },
+      {
+        "id": 48100,
+        "logoUrl": "jfs/t1/55274/14/9720/3952/5d6f7ad3E681a37c6/6fc2ea08f8f91e65.jpg",
+        "name": "雷神（ThundeRobot）",
+        "py": "L"
+      },
+      {
+        "id": 21566,
+        "logoUrl": "jfs/t2218/340/2214654985/15358/ed9fed19/56a8175fN924965be.jpg",
+        "name": "杰士（Klipsch）",
+        "py": "J"
+      },
+      {
+        "id": 50679,
+        "logoUrl": "",
+        "name": "倾听者（Listeneer）",
+        "py": "Q"
+      },
+      {
+        "id": 183703,
+        "logoUrl": "jfs/t1/80482/32/8681/4921/5d678b7aE71fcf2fe/37ae994ce499e9a0.jpg",
+        "name": "曼富图（Manfrotto）",
+        "py": "M"
+      },
+      {
+        "id": 51027,
+        "logoUrl": "jfs/t2854/4/4232764567/5825/9039654e/57b414c3N1584eb7a.jpg",
+        "name": "飞傲（FiiO）",
+        "py": "F"
+      },
+      {
+        "id": 45403,
+        "logoUrl": "",
+        "name": "艾迪索（Adesso）",
+        "py": "A"
+      },
+      {
+        "id": 68382,
+        "logoUrl": "jfs/t2980/238/221822840/19068/c72c307e/5750f6faN76349a54.jpg",
+        "name": "博士（BOSE）",
+        "py": "B"
+      },
+      {
+        "id": 7752,
+        "logoUrl": "jfs/t1861/29/1516999063/2905/f089057f/56a8170eN15adc780.jpg",
+        "name": "哈曼卡顿（Harman/Kardon）",
+        "py": "H"
+      },
+      {
+        "id": 15025,
+        "logoUrl": "jfs/t5902/96/7719962450/2906/49834676/59804d6bNc116b972.jpg",
+        "name": "赛睿（SteelSeries）",
+        "py": "S"
+      },
+      {
+        "id": 155332,
+        "logoUrl": "jfs/t22858/272/2493033006/15008/35532d0c/5b7e8fa5Nee21bfa5.jpg",
+        "name": "雷克沙（Lexar）",
+        "py": "L"
+      },
+      {
+        "id": 153787,
+        "logoUrl": "jfs/t3469/149/648443991/4070/26f8d302/581071b7Nbf1c3b25.jpg",
+        "name": "Dickies",
+        "py": "D"
+      },
+      {
+        "id": 16538,
+        "logoUrl": "jfs/t1/175/26/11602/2671/5bce70a1Ecd95c076/4d7f4f80f80c5a1c.jpg",
+        "name": "索尼（SONY）",
+        "py": "S"
+      },
+      {
+        "id": 183697,
+        "logoUrl": "jfs/t1/20715/7/14912/4793/5cac97aeE9d67b4d5/c5c74983eb849ad3.png",
+        "name": "理光（Ricoh）",
+        "py": "R"
+      },
+      {
+        "id": 354186,
+        "logoUrl": "",
+        "name": "NEOPRO",
+        "py": "N"
+      },
+      {
+        "id": 15028,
+        "logoUrl": "jfs/t2227/269/2941341180/15500/22158e5b/56fc81d6Nec57774b.jpg",
+        "name": "MAD CATZ",
+        "py": "M"
+      },
+      {
+        "id": 164817,
+        "logoUrl": "jfs/t1/10606/35/12354/6325/5c78e9ebEf1a1bc4d/94d33301e1fc0753.jpg",
+        "name": "松下（Panasonic）",
+        "py": "S"
+      },
+      {
+        "id": 184781,
+        "logoUrl": "",
+        "name": "LeapFrog",
+        "py": "L"
+      },
+      {
+        "id": 217614,
+        "logoUrl": "",
+        "name": "iHome",
+        "py": "I"
+      },
+      {
+        "id": 943687,
+        "logoUrl": "jfs/t1/192278/18/34162/1715/643f9ffeF90e15e31/b5f0a0d70412727b.jpg",
+        "name": "卡姆施（CAMSCH）",
+        "py": "K"
+      },
+      {
+        "id": 112689,
+        "logoUrl": "jfs/t1/11958/21/5885/5817/5c386d2eEb33dd3ca/dea0b884685d81cc.jpg",
+        "name": "普联（TP-LINK）",
+        "py": "T"
+      },
+      {
+        "id": 234987,
+        "logoUrl": "",
+        "name": "JLab",
+        "py": "J"
+      },
+      {
+        "id": 213042,
+        "logoUrl": "",
+        "name": "AMAZON",
+        "py": "A"
+      },
+      {
+        "id": 4917,
+        "logoUrl": "jfs/t2386/87/970896982/5442/6a669e8f/56398218Nbb88695e.jpg",
+        "name": "彪马（PUMA）",
+        "py": "B"
+      },
+      {
+        "id": 61964,
+        "logoUrl": "",
+        "name": "Superdry",
+        "py": "S"
+      },
+      {
+        "id": 37705,
+        "logoUrl": "jfs/t1/182035/26/23534/2339/6259390bE1026749f/e10397d9a57fefe0.png",
+        "name": "雨果博斯（HUGO BOSS）",
+        "py": "H"
+      },
+      {
+        "id": 101177,
+        "logoUrl": "jfs/t3499/196/658291146/2353/46c39fd1/58106232Nf778d844.jpg",
+        "name": "圣大保罗（POLO&RACQUET CLUB）",
+        "py": "S"
+      },
+      {
+        "id": 2266,
+        "logoUrl": "jfs/t25714/151/2114096477/2971/2c57ec07/5bc467c2Ned5a3c61.jpg",
+        "name": "ROG",
+        "py": "R"
+      },
+      {
+        "id": 184956,
+        "logoUrl": "",
+        "name": "SanDisk",
+        "py": "S"
+      },
+      {
+        "id": 16334,
+        "logoUrl": "jfs/t3142/212/6265843930/3794/5f93de32/58a1111cNa38682a6.jpg",
+        "name": "斯凯奇（Skechers）",
+        "py": "S"
+      },
+      {
+        "id": 181686,
+        "logoUrl": "jfs/t4633/302/2570920161/2952/399cfc63/58f0980dNddfbdb91.jpg",
+        "name": "UNDER ARMOUR",
+        "py": "U"
+      },
+      {
+        "id": 182609,
+        "logoUrl": "",
+        "name": "Aspinal of london",
+        "py": "A"
+      },
+      {
+        "id": 98230,
+        "logoUrl": "jfs/t3472/117/1031831369/4366/9fb7074d/581ae7d0N49e09db5.jpg",
+        "name": "锐步（Reebok）",
+        "py": "R"
+      },
+      {
+        "id": 2898,
+        "logoUrl": "jfs/t1/176698/1/33118/1779/63bc02e6Fe57160b2/d76c2bbe64261df9.jpg",
+        "name": "阿玛尼（ARMANI）",
+        "py": "A"
+      },
+      {
+        "id": 10634,
+        "logoUrl": "jfs/t6109/358/319528223/2039/75ea4b28/5927d62cNddb8777f.png",
+        "name": "酷冷至尊（CoolerMaster）",
+        "py": "K"
+      },
+      {
+        "id": 282431,
+        "logoUrl": "",
+        "name": "Mpow",
+        "py": "M"
+      },
+      {
+        "id": 22514,
+        "logoUrl": "jfs/t934/74/187514430/4729/12c38c2c/5507cf6aN5a19e986.png",
+        "name": "声擎",
+        "py": "S"
+      },
+      {
+        "id": 9495,
+        "logoUrl": "jfs/t1/4711/39/11966/4804/5bd12e64E9e2ac449/8aebcc10b92302f3.jpg",
+        "name": "金士顿（Kingston）",
+        "py": "J"
+      },
+      {
+        "id": 19916,
+        "logoUrl": "jfs/t2683/65/32196796/5013/46d7883d/56fc8145N9bfa0eb6.jpg",
+        "name": "CHERRY",
+        "py": "C"
+      },
+      {
+        "id": 501467,
+        "logoUrl": "",
+        "name": "莱尔德",
+        "py": "L"
+      },
+      {
+        "id": 173463,
+        "logoUrl": "jfs/t2353/69/2255613726/20958/5a9ee3d8/56c2ead3N36e7dad5.jpg",
+        "name": "LIHIT LAB.",
+        "py": "L"
+      },
+      {
+        "id": 160057,
+        "logoUrl": "jfs/t1840/321/1555077745/25398/878d1356/5667cb5cNecb8267f.jpg",
+        "name": "瑞士军刀（SWISSGEAR）",
+        "py": "S"
+      },
+      {
+        "id": 17726,
+        "logoUrl": "jfs/t748/255/683712781/3024/cf3c786/54cf1bddNca263197.jpg",
+        "name": "我的美丽日记（MY BEAUTY DIARY）",
+        "py": "W"
+      },
+      {
+        "id": 180842,
+        "logoUrl": "jfs/t26428/199/1278855334/3383/ed6a567/5bc582e7N7cc63e67.jpg",
+        "name": "SHURE",
+        "py": "S"
+      },
+      {
+        "id": 703,
+        "logoUrl": "jfs/t2692/67/2321923843/23300/1e10bf99/57612fc3N877d5be9.jpg",
+        "name": "她（ELLE）",
+        "py": "E"
+      },
+      {
+        "id": 10053,
+        "logoUrl": "jfs/t2215/299/1004752377/6392/db0c72df/56397efcN4052c515.jpg",
+        "name": "卡帕（Kappa）",
+        "py": "K"
+      },
+      {
+        "id": 1254,
+        "logoUrl": "jfs/t2701/127/840213195/4935/6c815bb8/57284b16Nad79c120.jpg",
+        "name": "JANSPORT",
+        "py": "J"
+      },
+      {
+        "id": 208673,
+        "logoUrl": "",
+        "name": "MYSTERY RANCH",
+        "py": "M"
+      },
+      {
+        "id": 43727,
+        "logoUrl": "jfs/t652/108/1020270858/5350/b5f117/54a3705cN380e97da.png",
+        "name": "德仕（DOSS）",
+        "py": "D"
+      },
+      {
+        "id": 430124,
+        "logoUrl": "jfs/t1/10851/16/13045/33289/5c7e0bffEaeaa47f7/10c4741ad25f1d3d.jpg",
+        "name": "SALON de RUBAN",
+        "py": "S"
+      },
+      {
+        "id": 738820,
+        "logoUrl": "jfs/t1/218504/6/890/1519/616d56b6Eb9d622ce/95f64b8bbd47a98f.png",
+        "name": "BROMPTON",
+        "py": "B"
+      },
+      {
+        "id": 35561,
+        "logoUrl": "jfs/t2128/31/968192691/4286/f30f0d9/563c64ceN51d9d30a.jpg",
+        "name": "万斯（VANS）",
+        "py": "V"
+      },
+      {
+        "id": 156563,
+        "logoUrl": "jfs/t2134/212/1302791844/7528/8c12a35c/564ef0d6Nf07c2248.jpg",
+        "name": "anello",
+        "py": "A"
+      },
+      {
+        "id": 327,
+        "logoUrl": "jfs/t4735/337/1852496258/16421/650aeba0/58f59760Nfc6fe1bd.jpg",
+        "name": "Blue",
+        "py": "B"
+      },
+      {
+        "id": 112300,
+        "logoUrl": "jfs/t2272/133/2728168164/2357/418b865a/56f23a94Nf168bad8.jpg",
+        "name": "巴利（BALLY）",
+        "py": "B"
+      },
+      {
+        "id": 17861,
+        "logoUrl": "jfs/t1/90160/23/8155/6815/5e01ea67E6f633032/622c549d0380dca5.jpg",
+        "name": "西部数据（WD）",
+        "py": "X"
+      },
+      {
+        "id": 10794,
+        "logoUrl": "jfs/t4075/331/1537882862/4763/49251df2/587db274N69722462.png",
+        "name": "LaCie",
+        "py": "L"
+      },
+      {
+        "id": 5567,
+        "logoUrl": "jfs/t1/125409/2/10745/4950/5f44b2d8Eaa514363/85f5ee954d2f5b76.png",
+        "name": "创新（Creative）",
+        "py": "C"
+      },
+      {
+        "id": 10952,
+        "logoUrl": "jfs/t1939/116/2081606398/7035/4d32a2c9/56a5cd77N8d890c92.jpg",
+        "name": "Jack Wolfskin",
+        "py": "J"
+      },
+      {
+        "id": 12430,
+        "logoUrl": "",
+        "name": "EAGLE CREEK",
+        "py": "E"
+      },
+      {
+        "id": 115163,
+        "logoUrl": "jfs/t1123/57/476952673/48828/ff6a05f0/552775f1N0670301e.jpg",
+        "name": "GRANITE GEAR",
+        "py": "G"
+      },
+      {
+        "id": 155646,
+        "logoUrl": "jfs/t3145/299/431892678/11923/130ffd35/57b6d959Nb15701da.jpg",
+        "name": "创见（Transcend）",
+        "py": "T"
+      },
+      {
+        "id": 6042,
+        "logoUrl": "jfs/t850/160/1307074945/2250/fa5deee4/5593868eNafc1d74e.jpg",
+        "name": "登喜路（Dunhill）",
+        "py": "D"
+      },
+      {
+        "id": 153240,
+        "logoUrl": "jfs/t1/11333/30/5922/4162/5c386dffE65035928/d3807461d42990b4.png",
+        "name": "友讯（D-Link）",
+        "py": "D"
+      },
+      {
+        "id": 142373,
+        "logoUrl": "jfs/t841/262/894552523/25927/b348cb3/55545e1eN070f47bc.jpg",
+        "name": "GITZO",
+        "py": "G"
+      },
+      {
+        "id": 57359,
+        "logoUrl": "jfs/t1/183827/29/2969/13693/60965bcfEdc2bbccc/a79e95c130a6f7e3.jpg",
+        "name": "英睿达（crucial）",
+        "py": "C"
+      },
+      {
+        "id": 235586,
+        "logoUrl": "",
+        "name": "Rains",
+        "py": "R"
+      },
+      {
+        "id": 13305,
+        "logoUrl": "jfs/t2776/87/2423175899/8078/a7700df1/5763ad44Nd29dc824.jpg",
+        "name": "耐克（NIKE）",
+        "py": "N"
+      },
+      {
+        "id": 650212,
+        "logoUrl": "jfs/t1/155153/24/20153/3830/6038d431Ee78ac403/854e7dccd06157b7.png",
+        "name": "迪卡侬（DECATHLON）",
+        "py": "D"
+      },
+      {
+        "id": 153108,
+        "logoUrl": "jfs/t7156/231/1516284227/4330/777d962f/598c1e62N74144e3b.jpg",
+        "name": "希捷（SEAGATE）",
+        "py": "X"
+      },
+      {
+        "id": 955806,
+        "logoUrl": "jfs/t1/152208/20/22710/1350/6454a4b6Fde4c302d/060c567e1c0f1197.png",
+        "name": "Lilly Pulitzer",
+        "py": "L"
+      },
+      {
+        "id": 2545,
+        "logoUrl": "jfs/t3820/230/402326578/2153/1da3baf1/581040ccN2f51e150.jpg",
+        "name": "TIMBUK2",
+        "py": "T"
+      },
+      {
+        "id": 48407,
+        "logoUrl": "jfs/t5686/114/8934209008/16044/5fb2574d/598126c0N41426d15.jpg",
+        "name": "美商海盗船（USCORSAIR）",
+        "py": "M"
+      },
+      {
+        "id": 6806,
+        "logoUrl": "jfs/t1/8667/3/19919/2273/63469166E35c02b12/d2617a5212593f04.png",
+        "name": "菲拉格慕（Ferragamo）",
+        "py": "F"
+      },
+      {
+        "id": 2828,
+        "logoUrl": "jfs/t1/119450/26/20745/1983/6225c9aeEbd8e14ba/d85788d538ca1976.jpg",
+        "name": "阿迪达斯（adidas）",
+        "py": "A"
+      },
+      {
+        "id": 183291,
+        "logoUrl": "",
+        "name": "巴法络（BUFFALO）",
+        "py": "B"
+      },
+      {
+        "id": 170395,
+        "logoUrl": "jfs/t2830/155/1548140345/6410/8c6679b6/57426959Nd010d70f.jpg",
+        "name": "LINE FRIENDS",
+        "py": "L"
+      },
+      {
+        "id": 170228,
+        "logoUrl": "jfs/t2533/256/1122877050/4226/a1bca5aa/568e4755N411e8c5f.png",
+        "name": "贝尔金（BELKIN）",
+        "py": "B"
+      },
+      {
+        "id": 243769,
+        "logoUrl": "",
+        "name": "AmazonBasics",
+        "py": "A"
+      },
+      {
+        "id": 22364,
+        "logoUrl": "jfs/t1/134531/2/8290/2546/5f472567E6e62cc43/9e7a74384a80a601.jpg",
+        "name": "美旅（AMERICAN TOURISTER）",
+        "py": "A"
+      },
+      {
+        "id": 6857,
+        "logoUrl": "jfs/t5509/206/1028360467/3685/1dddca0d/590ac2c1Nb489511f.jpg",
+        "name": "斐乐（FILA）",
+        "py": "F"
+      },
+      {
+        "id": 12119,
+        "logoUrl": "jfs/t2173/198/2768106480/2467/4c66bc4/56f23fb8N5417b40d.jpg",
+        "name": "迈克.科尔斯（MICHAEL KORS）",
+        "py": "M"
+      },
+      {
+        "id": 105651,
+        "logoUrl": "jfs/t3136/81/828513308/2372/75732e4/57bffee3Nfeaa3da8.jpg",
+        "name": "泰格斯（TARGUS）",
+        "py": "T"
+      },
+      {
+        "id": 191015,
+        "logoUrl": "jfs/t2092/39/2106157190/2642/e4ce604f/569da436N7dac6b4d.jpg",
+        "name": "SPRAYGROUND",
+        "py": "S"
+      },
+      {
+        "id": 13096,
+        "logoUrl": "jfs/t2461/61/2891794000/5942/efff6b74/56f9d789Nc5ea9478.jpg",
+        "name": "魔声（Monster）",
+        "py": "M"
+      },
+      {
+        "id": 2042,
+        "logoUrl": "jfs/t2254/315/967261318/3613/e0d04673/56398181N1b68276b.jpg",
+        "name": "OSPREY",
+        "py": "O"
+      },
+      {
+        "id": 483138,
+        "logoUrl": "jfs/t1/71619/32/6956/33576/5d526037E34e4005a/50e50606c828ff03.jpg",
+        "name": "OWC",
+        "py": "O"
+      },
+      {
+        "id": 18512,
+        "logoUrl": "jfs/t2161/283/2694205025/5607/8da92dc6/56e8c714N82271963.jpg",
+        "name": "NEW BALANCE",
+        "py": "N"
+      },
+      {
+        "id": 168898,
+        "logoUrl": "jfs/t1/8001/3/1522/4074/5bcec6f0E0639ae40/e75d043dc714c27c.jpg",
+        "name": "爱科技（AKG）",
+        "py": "A"
+      },
+      {
+        "id": 155265,
+        "logoUrl": "jfs/t1876/3/2180630602/3087/25ac8aa9/569d9cb6N332796bd.jpg",
+        "name": "蔻驰（COACH）",
+        "py": "C"
+      },
+      {
+        "id": 51241,
+        "logoUrl": "jfs/t1/18119/19/13818/21465/5ca2cb71Ec6236d60/1460957cdb49a907.jpg",
+        "name": "北面（The North Face）",
+        "py": "B"
+      },
+      {
+        "id": 15905,
+        "logoUrl": "jfs/t2500/11/1019004610/2042/57d0cc2/56397029Ndd6d123e.jpg",
+        "name": "始祖鸟（ARC’TERYX）",
+        "py": "S"
+      },
+      {
+        "id": 16566,
+        "logoUrl": "jfs/t2254/147/1402060517/5195/31b31234/569e031dNd71989ea.jpg",
+        "name": "途明（TUMI）",
+        "py": "T"
+      },
+      {
+        "id": 112621,
+        "logoUrl": "jfs/t21880/329/1691054853/2735/5c06af01/5b30be0dN85062c0e.jpg",
+        "name": "凯浦林（Kipling）",
+        "py": "K"
+      },
+      {
+        "id": 75057,
+        "logoUrl": "jfs/t1/175293/33/13384/2205/60bf1767Ef185258b/cb5e5d41a8f17e60.png",
+        "name": "红龙（REDRAGON）",
+        "py": "H"
+      },
+      {
+        "id": 107289,
+        "logoUrl": "jfs/t349/345/56019433/43639/f8a1672d/54003322Ndaff01de.jpg",
+        "name": "北极狐（FJALLRAVEN）",
+        "py": "F"
+      },
+      {
+        "id": 66194,
+        "logoUrl": "",
+        "name": "Herschel",
+        "py": "H"
+      },
+      {
+        "id": 8786,
+        "logoUrl": "jfs/t1/181767/22/20513/2360/611f9cb0Ecafd3893/37e52f977c0ce116.png",
+        "name": "霍尼韦尔（Honeywell）",
+        "py": "H"
+      },
+      {
+        "id": 725378,
+        "logoUrl": "jfs/t1/48426/22/19867/4211/62b983d9Efa37a6fa/ec5166e11b9666c7.jpg",
+        "name": "达尔优（DAREU）",
+        "py": "D"
+      },
+      {
+        "id": 10573,
+        "logoUrl": "",
+        "name": "肯辛通（Kensington）",
+        "py": "K"
+      },
+      {
+        "id": 19520,
+        "logoUrl": "jfs/t1/14663/10/2435/3975/5c1c9ddbEc3dd7535/e7cba35288d37f30.png",
+        "name": "宜丽客（ELECOM）",
+        "py": "Y"
+      },
+      {
+        "id": 142,
+        "logoUrl": "jfs/t3253/8/429150825/4801/ec653242/57b6d90bN4b6bffa1.png",
+        "name": "AMD",
+        "py": "A"
+      },
+      {
+        "id": 1262,
+        "logoUrl": "jfs/t1/92324/31/31679/1049/635b31fbEf26e6384/0ee3303d7a679f6d.jpg",
+        "name": "JBL",
+        "py": "J"
+      },
+      {
+        "id": 11821,
+        "logoUrl": "jfs/t10369/97/2211502513/1892/ee79238f/59f15a7aN946a4cb8.jpg",
+        "name": "罗技（Logitech）",
+        "py": "L"
+      },
+      {
+        "id": 18585,
+        "logoUrl": "jfs/t1/162704/12/35669/1743/64105d7dF4bc742ba/2f9cfe5cf7e13af4.png",
+        "name": "新秀丽",
+        "py": "X"
+      },
+      {
+        "id": 6742,
+        "logoUrl": "jfs/t1/5932/28/11176/6002/5bce822bE4be57b0c/162d6a5b24eb2ab7.jpg",
+        "name": "飞利浦（PHILIPS）",
+        "py": "F"
+      },
+      {
+        "id": 20881,
+        "logoUrl": "jfs/t16318/355/1239825437/1482/52b346ab/5a4f5055N8e64de1a.png",
+        "name": "G.SKILL",
+        "py": "G"
+      }
+    ],
+    "currPage": 2,
+    "skuRecommendPCSwitch": "ON",
+    "totalItem": 5896,
+    "totalPage": 123,
+    "skuComparePCSwitch": "ON",
+    "priceRanges": [
+      {
+        "min": "0",
+        "max": "200"
+      },
+      {
+        "min": "200",
+        "max": "500"
+      },
+      {
+        "min": "500",
+        "max": "1100"
+      },
+      {
+        "min": "1100",
+        "max": "2200"
+      },
+      {
+        "min": "2200",
+        "max": "3800"
+      },
+      {
+        "min": "3800",
+        "max": "68000"
+      },
+      {
+        "sortorder": 0
+      }
+    ],
+    "skuFallowPCSwitch": "ON",
+    "errorMsg": "",
+    "extCates": [
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 4761,
+            "name": "16:10"
+          },
+          {
+            "id": 4760,
+            "name": "16:9"
+          },
+          {
+            "id": 4763,
+            "name": "4:3"
+          },
+          {
+            "id": 79771,
+            "name": "3:2"
+          }
+        ],
+        "id": 1450,
+        "name": "屏幕比例"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 144488,
+            "name": "支持IPv6"
+          },
+          {
+            "id": 144489,
+            "name": "不支持IPv6"
+          }
+        ],
+        "id": 15008,
+        "name": "支持IPv6"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 45778,
+            "name": "游戏"
+          },
+          {
+            "id": 68675,
+            "name": "商务"
+          },
+          {
+            "id": 80760,
+            "name": "职场"
+          },
+          {
+            "id": 116519,
+            "name": "礼品馈赠"
+          },
+          {
+            "id": 68223,
+            "name": "旅行"
+          },
+          {
+            "id": 117884,
+            "name": "书写"
+          }
+        ],
+        "id": 3785,
+        "name": "适用场景"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 1188,
+            "name": "键鼠套装"
+          },
+          {
+            "id": 97402,
+            "name": "一体式水冷散热器"
+          },
+          {
+            "id": 102682,
+            "name": "导热硅脂"
+          },
+          {
+            "id": 125335,
+            "name": "轻薄笔记本"
+          },
+          {
+            "id": 125334,
+            "name": "游戏笔记本"
+          },
+          {
+            "id": 131979,
+            "name": "高端轻薄笔记本"
+          },
+          {
+            "id": 131980,
+            "name": "高端游戏笔记本"
+          },
+          {
+            "id": 131981,
+            "name": "高性能轻薄笔记本"
+          },
+          {
+            "id": 81208,
+            "name": "二合一笔记本"
+          },
+          {
+            "id": 97666,
+            "name": "笔记本/记事本"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 3184,
+        "name": "类型"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 67360,
+            "name": "AMD 速龙"
+          },
+          {
+            "id": 181811,
+            "name": "兆芯"
+          },
+          {
+            "id": 182907,
+            "name": "飞腾"
+          },
+          {
+            "id": 182909,
+            "name": "龙芯"
+          },
+          {
+            "id": 182910,
+            "name": "海光"
+          },
+          {
+            "id": 187466,
+            "name": "Apple M2"
+          },
+          {
+            "id": 221884,
+            "name": "Apple M2 Ultra"
+          },
+          {
+            "id": 177884,
+            "name": "intel i9"
+          },
+          {
+            "id": 199962,
+            "name": "Apple M2 Pro"
+          },
+          {
+            "id": 88798,
+            "name": "AMD R5"
+          },
+          {
+            "id": 88799,
+            "name": "AMD R7"
+          },
+          {
+            "id": 88800,
+            "name": "AMD R9"
+          },
+          {
+            "id": 131999,
+            "name": "AMD R3"
+          },
+          {
+            "id": 133195,
+            "name": "高通"
+          },
+          {
+            "id": 177882,
+            "name": "intel i5"
+          },
+          {
+            "id": 177881,
+            "name": "intel i3"
+          },
+          {
+            "id": 177883,
+            "name": "intel i7"
+          },
+          {
+            "id": 177785,
+            "name": "intel 赛扬"
+          },
+          {
+            "id": 179898,
+            "name": "intel 至强"
+          },
+          {
+            "id": 177885,
+            "name": "intel 奔腾"
+          }
+        ],
+        "id": 933,
+        "name": "处理器"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 73965,
+            "name": "128GB"
+          },
+          {
+            "id": 76036,
+            "name": "64GB"
+          },
+          {
+            "id": 88228,
+            "name": "256GB"
+          },
+          {
+            "id": 90887,
+            "name": "512GB"
+          },
+          {
+            "id": 4844,
+            "name": "3TB"
+          },
+          {
+            "id": 180185,
+            "name": "512GB*2"
+          },
+          {
+            "id": 1095,
+            "name": "1TB"
+          },
+          {
+            "id": 7352,
+            "name": "2TB"
+          },
+          {
+            "id": 67364,
+            "name": "4T"
+          },
+          {
+            "id": 157020,
+            "name": "512GB+1TB"
+          },
+          {
+            "id": 686,
+            "name": "8TB"
+          },
+          {
+            "id": 180175,
+            "name": "无固态硬盘"
+          }
+        ],
+        "id": 14740,
+        "name": "固态硬盘（SSD）"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 131988,
+            "name": "15.0mm及以下"
+          },
+          {
+            "id": 175692,
+            "name": "15.1-18.0mm"
+          },
+          {
+            "id": 175695,
+            "name": "18.1-20.0mm"
+          },
+          {
+            "id": 88820,
+            "name": "20.0mm以上"
+          }
+        ],
+        "id": 2443,
+        "name": "厚度"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 1095,
+            "name": "1TB"
+          },
+          {
+            "id": 162457,
+            "name": "2TB*2"
+          },
+          {
+            "id": 7352,
+            "name": "2TB"
+          },
+          {
+            "id": 1085,
+            "name": "500GB"
+          },
+          {
+            "id": 97396,
+            "name": "无机械硬盘"
+          }
+        ],
+        "id": 14741,
+        "name": "机械硬盘"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 87535,
+            "name": "18英寸"
+          },
+          {
+            "id": 133198,
+            "name": "13.0英寸以下"
+          },
+          {
+            "id": 116334,
+            "name": "13.0-13.9英寸"
+          },
+          {
+            "id": 116335,
+            "name": "14.0-14.9英寸"
+          },
+          {
+            "id": 116336,
+            "name": "15.0-15.9英寸"
+          },
+          {
+            "id": 168958,
+            "name": "16.0-16.9英寸"
+          },
+          {
+            "id": 73395,
+            "name": "17英寸"
+          },
+          {
+            "id": 64132,
+            "name": "18.4英寸"
+          },
+          {
+            "id": 73397,
+            "name": "17.3英寸"
+          },
+          {
+            "id": 73389,
+            "name": "13.3英寸"
+          },
+          {
+            "id": 73393,
+            "name": "15.6英寸"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 244,
+        "name": "屏幕尺寸"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 2007,
+            "name": "6GB"
+          },
+          {
+            "id": 1957,
+            "name": "24GB"
+          },
+          {
+            "id": 90279,
+            "name": "12GB"
+          },
+          {
+            "id": 130379,
+            "name": "20GB"
+          },
+          {
+            "id": 173,
+            "name": "4GB"
+          },
+          {
+            "id": 76036,
+            "name": "64GB"
+          },
+          {
+            "id": 190281,
+            "name": "96GB"
+          },
+          {
+            "id": 73965,
+            "name": "128GB"
+          },
+          {
+            "id": 76033,
+            "name": "8GB"
+          },
+          {
+            "id": 76034,
+            "name": "16GB"
+          },
+          {
+            "id": 76035,
+            "name": "32GB"
+          }
+        ],
+        "id": 149,
+        "name": "内存容量"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 116128,
+            "name": "72%NTSC"
+          },
+          {
+            "id": 159882,
+            "name": "99% sRGB"
+          },
+          {
+            "id": 199527,
+            "name": "97% sRGB"
+          },
+          {
+            "id": 116130,
+            "name": "100%sRGB"
+          },
+          {
+            "id": 131074,
+            "name": "DCI-P3"
+          },
+          {
+            "id": 116129,
+            "name": "45%NTSC"
+          }
+        ],
+        "id": 14431,
+        "name": "屏幕色域"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 130114,
+            "name": "60Hz"
+          },
+          {
+            "id": 168963,
+            "name": "360Hz"
+          },
+          {
+            "id": 195547,
+            "name": "480Hz"
+          },
+          {
+            "id": 130115,
+            "name": "90Hz"
+          },
+          {
+            "id": 130116,
+            "name": "120Hz"
+          },
+          {
+            "id": 158410,
+            "name": "165Hz"
+          },
+          {
+            "id": 130857,
+            "name": "144Hz"
+          },
+          {
+            "id": 121385,
+            "name": "240Hz"
+          }
+        ],
+        "id": 13550,
+        "name": "屏幕刷新率"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 133203,
+            "name": "PCI-E高速固态硬盘"
+          },
+          {
+            "id": 81210,
+            "name": "触控屏"
+          },
+          {
+            "id": 18663,
+            "name": "背光键盘"
+          },
+          {
+            "id": 9004,
+            "name": "指纹识别"
+          },
+          {
+            "id": 84428,
+            "name": "360°翻转"
+          },
+          {
+            "id": 85082,
+            "name": "快速充电"
+          },
+          {
+            "id": 133209,
+            "name": "大内存（16GB及以上）"
+          },
+          {
+            "id": 116067,
+            "name": "长续航"
+          },
+          {
+            "id": 162252,
+            "name": "Wi-Fi 6"
+          }
+        ],
+        "id": 645,
+        "name": "特性"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 5023,
+            "name": "Windows 7"
+          },
+          {
+            "id": 72985,
+            "name": "DOS"
+          },
+          {
+            "id": 80144,
+            "name": "Windows 10专业版"
+          },
+          {
+            "id": 186482,
+            "name": "中兴新支点V3"
+          },
+          {
+            "id": 209977,
+            "name": "Windows 11 家庭中文版"
+          },
+          {
+            "id": 4191,
+            "name": "Linux"
+          },
+          {
+            "id": 162249,
+            "name": "Windows 10 带Office"
+          },
+          {
+            "id": 192215,
+            "name": "统信"
+          },
+          {
+            "id": 199897,
+            "name": "中科方德"
+          },
+          {
+            "id": 79811,
+            "name": "Windows 10"
+          },
+          {
+            "id": 111992,
+            "name": "Windows"
+          },
+          {
+            "id": 159374,
+            "name": "MacOS"
+          },
+          {
+            "id": 176274,
+            "name": "Windows 11"
+          },
+          {
+            "id": 180397,
+            "name": "Windows 11 Pro专业版"
+          },
+          {
+            "id": 197081,
+            "name": "神州网信版系统"
+          }
+        ],
+        "id": 2,
+        "name": "系统"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 185417,
+            "name": "华硕-无双"
+          },
+          {
+            "id": 185511,
+            "name": "惠普-锐系列"
+          },
+          {
+            "id": 187077,
+            "name": "联想 - YOGA Air"
+          },
+          {
+            "id": 187352,
+            "name": "豆小谷-高能轻薄系列"
+          },
+          {
+            "id": 187424,
+            "name": "GPD-游戏系列"
+          },
+          {
+            "id": 187438,
+            "name": "戴兴-S系列"
+          },
+          {
+            "id": 187685,
+            "name": "高性能轻薄本系列"
+          },
+          {
+            "id": 189636,
+            "name": "联想-昭阳"
+          },
+          {
+            "id": 196077,
+            "name": "戴尔-Precision"
+          },
+          {
+            "id": 196928,
+            "name": "H3C-商用笔记本"
+          },
+          {
+            "id": 133252,
+            "name": "三星-Galaxy Book Flex"
+          },
+          {
+            "id": 159289,
+            "name": "宏碁-非凡"
+          },
+          {
+            "id": 189634,
+            "name": "联想-小新Duet"
+          },
+          {
+            "id": 199558,
+            "name": "酷提-酷睿系列"
+          },
+          {
+            "id": 133253,
+            "name": "三星-Galaxy Book Ion"
+          },
+          {
+            "id": 159290,
+            "name": "宏碁-Spin"
+          },
+          {
+            "id": 162860,
+            "name": "Acer Book RS"
+          },
+          {
+            "id": 162862,
+            "name": "TMP"
+          },
+          {
+            "id": 133251,
+            "name": "三星-Galaxy Book S"
+          },
+          {
+            "id": 162495,
+            "name": "华硕-无畏"
+          },
+          {
+            "id": 102232,
+            "name": "联想 - IdeaPad"
+          },
+          {
+            "id": 107536,
+            "name": "戴尔 - Latitude"
+          },
+          {
+            "id": 107538,
+            "name": "戴尔 - Inspiron"
+          },
+          {
+            "id": 102235,
+            "name": "戴尔 - XPS"
+          },
+          {
+            "id": 116208,
+            "name": "华硕-ZenBook S系列"
+          },
+          {
+            "id": 102239,
+            "name": "惠普 - Pavilion"
+          },
+          {
+            "id": 102240,
+            "name": "惠普 - ENVY"
+          },
+          {
+            "id": 107395,
+            "name": "雷蛇-灵刃"
+          },
+          {
+            "id": 100966,
+            "name": "微软 - Surface laptop"
+          },
+          {
+            "id": 105855,
+            "name": "惠普 - 星系列"
+          },
+          {
+            "id": 107368,
+            "name": "惠普-EliteBook"
+          },
+          {
+            "id": 116209,
+            "name": "惠普-商用245/246系列"
+          },
+          {
+            "id": 125495,
+            "name": "华硕-VivoBook"
+          },
+          {
+            "id": 102248,
+            "name": "戴尔-外星人"
+          },
+          {
+            "id": 108024,
+            "name": "惠普-幽灵Spectre系列"
+          },
+          {
+            "id": 108073,
+            "name": "LG-gram"
+          },
+          {
+            "id": 108037,
+            "name": "联想-扬天系列"
+          },
+          {
+            "id": 108041,
+            "name": "戴尔-灵越系列"
+          },
+          {
+            "id": 108341,
+            "name": "戴尔-G系列"
+          },
+          {
+            "id": 126006,
+            "name": "adolbook"
+          },
+          {
+            "id": 168495,
+            "name": "联想-YOGA Pro"
+          },
+          {
+            "id": 176342,
+            "name": "iru轻薄系列"
+          },
+          {
+            "id": 176840,
+            "name": "Apple-MacBook Pro"
+          },
+          {
+            "id": 9898,
+            "name": "无"
+          }
+        ],
+        "id": 6,
+        "name": "系列"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 130343,
+            "name": "MX230"
+          },
+          {
+            "id": 174992,
+            "name": "RTX 3070Ti"
+          },
+          {
+            "id": 175007,
+            "name": "RTX 3080Ti"
+          },
+          {
+            "id": 183888,
+            "name": "RTX 2050"
+          },
+          {
+            "id": 183938,
+            "name": "RTX A3000"
+          },
+          {
+            "id": 185337,
+            "name": "MX570"
+          },
+          {
+            "id": 187467,
+            "name": "Apple M2集成显卡"
+          },
+          {
+            "id": 196886,
+            "name": "RTX 4090"
+          },
+          {
+            "id": 197082,
+            "name": "RTX4090"
+          },
+          {
+            "id": 197083,
+            "name": "RTX4080"
+          },
+          {
+            "id": 207358,
+            "name": "Radeon 520"
+          },
+          {
+            "id": 199972,
+            "name": "RTX 4070"
+          },
+          {
+            "id": 199973,
+            "name": "RTX 4060"
+          },
+          {
+            "id": 199974,
+            "name": "RTX 4050"
+          },
+          {
+            "id": 130344,
+            "name": "MX330"
+          },
+          {
+            "id": 174517,
+            "name": "T1000"
+          },
+          {
+            "id": 174518,
+            "name": "T2000"
+          },
+          {
+            "id": 175340,
+            "name": "GTX 1650"
+          },
+          {
+            "id": 175345,
+            "name": "RTX 3050"
+          },
+          {
+            "id": 175321,
+            "name": "RTX 3050Ti"
+          },
+          {
+            "id": 175352,
+            "name": "RTX 3060"
+          },
+          {
+            "id": 175311,
+            "name": "RTX 3080"
+          },
+          {
+            "id": 174512,
+            "name": "AMD 集成显卡"
+          },
+          {
+            "id": 174513,
+            "name": "intel 集成显卡"
+          },
+          {
+            "id": 174515,
+            "name": "T600"
+          },
+          {
+            "id": 174516,
+            "name": "T1200"
+          },
+          {
+            "id": 176082,
+            "name": "Radeon620"
+          },
+          {
+            "id": 1070,
+            "name": "集成显卡"
+          },
+          {
+            "id": 130341,
+            "name": "MX130"
+          },
+          {
+            "id": 176536,
+            "name": "RTX 3050 Max-Q"
+          },
+          {
+            "id": 177557,
+            "name": "RTX 5000"
+          },
+          {
+            "id": 177620,
+            "name": "Iris Xe MAX"
+          },
+          {
+            "id": 102666,
+            "name": "T500"
+          },
+          {
+            "id": 177770,
+            "name": "RTX 4000"
+          },
+          {
+            "id": 177771,
+            "name": "RTX 3000"
+          },
+          {
+            "id": 197005,
+            "name": "C-960"
+          }
+        ],
+        "id": 5283,
+        "name": "显卡型号"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 4749,
+            "name": "1920*1080"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 3613,
+        "name": "分辨率"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 313,
+            "name": "NVIDIA"
+          },
+          {
+            "id": 52663,
+            "name": "华为"
+          },
+          {
+            "id": 101468,
+            "name": "Apple"
+          },
+          {
+            "id": 490,
+            "name": "AMD"
+          },
+          {
+            "id": 72759,
+            "name": "Intel"
+          },
+          {
+            "id": 133195,
+            "name": "高通"
+          },
+          {
+            "id": 181811,
+            "name": "兆芯"
+          }
+        ],
+        "id": 14793,
+        "name": "显卡芯片供应商"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 33271,
+            "name": "金属"
+          },
+          {
+            "id": 116125,
+            "name": "金属+复合材质"
+          },
+          {
+            "id": 73657,
+            "name": "复合材质"
+          }
+        ],
+        "id": 3759,
+        "name": "机身材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 133218,
+            "name": "发烧级游戏光线追踪显卡"
+          },
+          {
+            "id": 88795,
+            "name": "高性能游戏独立显卡"
+          }
+        ],
+        "id": 567,
+        "name": "显卡类型"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 18663,
+            "name": "背光键盘"
+          },
+          {
+            "id": 133203,
+            "name": "PCI-E高速固态硬盘"
+          },
+          {
+            "id": 133205,
+            "name": "硬盘可扩展"
+          },
+          {
+            "id": 85082,
+            "name": "快速充电"
+          },
+          {
+            "id": 124212,
+            "name": "雷电接口"
+          },
+          {
+            "id": 133207,
+            "name": "内存可扩展"
+          },
+          {
+            "id": 133209,
+            "name": "大内存（16GB及以上）"
+          },
+          {
+            "id": 133212,
+            "name": "光线追踪技术"
+          },
+          {
+            "id": 116067,
+            "name": "长续航"
+          }
+        ],
+        "id": 17273,
+        "name": "特征特质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 112850,
+            "name": "价保15天"
+          },
+          {
+            "id": 76426,
+            "name": "上门服务"
+          },
+          {
+            "id": 107717,
+            "name": "一年质保"
+          },
+          {
+            "id": 107097,
+            "name": "两年质保"
+          },
+          {
+            "id": 107100,
+            "name": "7*24H咨询"
+          }
+        ],
+        "id": 7964,
+        "name": "优选服务"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 77060,
+            "name": "A5"
+          },
+          {
+            "id": 33829,
+            "name": "A6"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 13261,
+        "name": "内芯幅面规格"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 84420,
+            "name": "小于5小时"
+          },
+          {
+            "id": 84423,
+            "name": "9小时以上"
+          }
+        ],
+        "id": 3716,
+        "name": "待机时长"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 97682,
+            "name": "线装式装订"
+          },
+          {
+            "id": 97683,
+            "name": "胶钉式装订"
+          },
+          {
+            "id": 97685,
+            "name": "线圈/螺旋"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 3841,
+        "name": "装订方式"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 2474,
+            "name": "普通纸"
+          },
+          {
+            "id": 76150,
+            "name": "仿皮"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 6744,
+        "name": "封面材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 25898,
+            "name": "硬面抄"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 2648,
+        "name": "封面硬度"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 117896,
+            "name": "无酸纸"
+          },
+          {
+            "id": 11,
+            "name": "其他"
+          }
+        ],
+        "id": 13262,
+        "name": "内页材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 91928,
+            "name": "M.2接口(NVMe协议)"
+          },
+          {
+            "id": 124288,
+            "name": "M.2接口（SATA总线）"
+          }
+        ],
+        "id": 539,
+        "name": "接口"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 68212,
+            "name": "夹层拉链袋"
+          },
+          {
+            "id": 68213,
+            "name": "电脑插袋"
+          }
+        ],
+        "id": 102,
+        "name": "内部结构"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 43859,
+            "name": "欧美风"
+          },
+          {
+            "id": 96616,
+            "name": "休闲风"
+          },
+          {
+            "id": 184261,
+            "name": "朋克风"
+          },
+          {
+            "id": 184264,
+            "name": "商务风"
+          },
+          {
+            "id": 184290,
+            "name": "通勤风"
+          }
+        ],
+        "id": 872,
+        "name": "风格"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 32685,
+            "name": "拉链搭扣"
+          },
+          {
+            "id": 75451,
+            "name": "拉链"
+          }
+        ],
+        "id": 3115,
+        "name": "闭合方式"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 11,
+            "name": "其他"
+          },
+          {
+            "id": 32618,
+            "name": "棉"
+          },
+          {
+            "id": 165516,
+            "name": "涤纶(聚酯纤维)"
+          }
+        ],
+        "id": 3237,
+        "name": "材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 18675,
+            "name": "织物"
+          },
+          {
+            "id": 165516,
+            "name": "涤纶(聚酯纤维)"
+          }
+        ],
+        "id": 3251,
+        "name": "里料材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 7670,
+            "name": "单肩电脑包"
+          },
+          {
+            "id": 7671,
+            "name": "双肩电脑包"
+          }
+        ],
+        "id": 878,
+        "name": "类别"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 11,
+            "name": "其他"
+          },
+          {
+            "id": 18675,
+            "name": "织物"
+          },
+          {
+            "id": 165516,
+            "name": "涤纶(聚酯纤维)"
+          }
+        ],
+        "id": 2023,
+        "name": "外部材质"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 88116,
+            "name": "16英寸以上"
+          },
+          {
+            "id": 106918,
+            "name": "10.1-12英寸"
+          }
+        ],
+        "id": 4327,
+        "name": "容纳电脑尺寸"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 9748,
+            "name": "防泼水"
+          },
+          {
+            "id": 33002,
+            "name": "防水"
+          }
+        ],
+        "id": 4350,
+        "name": "防水强度"
+      },
+      {
+        "display": false,
+        "extAttrs": [
+          {
+            "id": 75460,
+            "name": "车缝线"
+          },
+          {
+            "id": 81535,
+            "name": "锁扣"
+          }
+        ],
+        "id": 1977,
+        "name": "流行元素"
+      }
+    ],
+    "itemPriceInfo": {
+      "10051824676819": {
+        "price": {
+          "pprice": "9999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10068871524181": {
+        "price": {
+          "pprice": "22999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10051887025983": {
+        "price": {
+          "pprice": "34999",
+          "linePrice": "",
+          "jdPrice": "58999"
+        }
+      },
+      "10051887025980": {
+        "price": {
+          "pprice": "30999",
+          "linePrice": "",
+          "jdPrice": "58999"
+        }
+      },
+      "10051878223627": {
+        "price": {
+          "pprice": "15499",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10067916546513": {
+        "price": {
+          "pprice": "8999",
+          "linePrice": "",
+          "jdPrice": "18999"
+        }
+      },
+      "10068930281700": {
+        "price": {
+          "pprice": "14198",
+          "linePrice": "",
+          "jdPrice": "31999"
+        }
+      },
+      "10077720352800": {
+        "price": {
+          "pprice": "35999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10068636744398": {
+        "price": {
+          "pprice": "20999",
+          "linePrice": "",
+          "jdPrice": "48999"
+        }
+      },
+      "10051878223623": {
+        "price": {
+          "pprice": "12399",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10051824676816": {
+        "price": {
+          "pprice": "9999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10051824676817": {
+        "price": {
+          "pprice": "10999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10036350268601": {
+        "price": {
+          "pprice": "3959",
+          "linePrice": "",
+          "jdPrice": "4999"
+        }
+      },
+      "10068636744399": {
+        "price": {
+          "pprice": "21999",
+          "linePrice": "",
+          "jdPrice": "48999"
+        }
+      },
+      "10051824676818": {
+        "price": {
+          "pprice": "11499",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "67361008328": {
+        "price": {
+          "pprice": "11479",
+          "linePrice": "",
+          "jdPrice": "18999"
+        }
+      },
+      "10068930281701": {
+        "price": {
+          "pprice": "15198",
+          "linePrice": "",
+          "jdPrice": "31999"
+        }
+      },
+      "10069249855618": {
+        "price": {
+          "pprice": "29899",
+          "linePrice": "",
+          "jdPrice": "49999"
+        }
+      },
+      "10051824676830": {
+        "price": {
+          "pprice": "13499",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10071498234903": {
+        "price": {
+          "pprice": "28999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10052320493508": {
+        "price": {
+          "pprice": "15999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10066676931840": {
+        "price": {
+          "pprice": "16899",
+          "linePrice": "",
+          "jdPrice": "29999"
+        }
+      },
+      "37669022166": {
+        "price": {
+          "pprice": "33108",
+          "linePrice": "",
+          "jdPrice": "36100"
+        }
+      },
+      "10064111991175": {
+        "price": {
+          "pprice": "6969",
+          "linePrice": "",
+          "jdPrice": "12888"
+        }
+      },
+      "10051887025976": {
+        "price": {
+          "pprice": "26999",
+          "linePrice": "",
+          "jdPrice": "58999"
+        }
+      },
+      "10051887025974": {
+        "price": {
+          "pprice": "25999",
+          "linePrice": "",
+          "jdPrice": "58999"
+        }
+      },
+      "10051887025972": {
+        "price": {
+          "pprice": "24999",
+          "linePrice": "",
+          "jdPrice": "58999"
+        }
+      },
+      "10077720352795": {
+        "price": {
+          "pprice": "29999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10048425894712": {
+        "price": {
+          "pprice": "3799",
+          "linePrice": "",
+          "jdPrice": "4919"
+        }
+      },
+      "10077720352796": {
+        "price": {
+          "pprice": "30999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10051824676822": {
+        "price": {
+          "pprice": "12999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10068398987315": {
+        "price": {
+          "pprice": "53604",
+          "linePrice": "",
+          "jdPrice": "77999"
+        }
+      },
+      "10051814391547": {
+        "price": {
+          "pprice": "8999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10068636744401": {
+        "price": {
+          "pprice": "23999",
+          "linePrice": "",
+          "jdPrice": "48999"
+        }
+      },
+      "10077720352798": {
+        "price": {
+          "pprice": "33999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10051824676824": {
+        "price": {
+          "pprice": "10999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10077720352799": {
+        "price": {
+          "pprice": "33999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10068871524179": {
+        "price": {
+          "pprice": "20999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10054239310675": {
+        "price": {
+          "pprice": "5799",
+          "linePrice": "",
+          "jdPrice": "6459"
+        }
+      },
+      "10068638045231": {
+        "price": {
+          "pprice": "26999",
+          "linePrice": "",
+          "jdPrice": "49999"
+        }
+      },
+      "10066676931836": {
+        "price": {
+          "pprice": "13799",
+          "linePrice": "",
+          "jdPrice": "29999"
+        }
+      },
+      "10055562660748": {
+        "price": {
+          "pprice": "17999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10068883097811": {
+        "price": {
+          "pprice": "27999",
+          "linePrice": "",
+          "jdPrice": "48999"
+        }
+      },
+      "10051824676820": {
+        "price": {
+          "pprice": "10999",
+          "linePrice": "",
+          "jdPrice": "26999"
+        }
+      },
+      "10057565338634": {
+        "price": {
+          "pprice": "4929",
+          "linePrice": "",
+          "jdPrice": "22598"
+        }
+      },
+      "10068878172322": {
+        "price": {
+          "pprice": "27999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10068878172323": {
+        "price": {
+          "pprice": "29999",
+          "linePrice": "",
+          "jdPrice": "52999"
+        }
+      },
+      "10052888423426": {
+        "price": {
+          "pprice": "5559",
+          "linePrice": "",
+          "jdPrice": "6669"
+        }
+      }
+    },
+    "isPlus95": false,
+    "crumbs": [],
+    "success": true,
+    "priceQuerySwitch": "ON",
+    "searchUrl": "http://mproxy-search.jd.local/?client=1450145984107&brand_col=yes&price_col=yes&ext_attr=yes&suite_state=yes&charset=utf8&urlencode=yes&new_brand_val=yes&key=%E7%AC%94%E8%AE%B0%E6%9C%AC&filt_type=product_ext,b11v1;dredisprice,M0&area_ids=1,72,2799&merge_sku=yes&pagesize=48&page=2&client_type=pc",
+    "items": [
+      {
+        "colorItems": [],
+        "colorName": " 学生、游戏、商业办公 WiFi，蓝牙，网络摄像头",
+        "commentCount": 1,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10048425894712,
+        "productext": 271606912,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10048425894712,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/206920/20/20012/78084/624d0bfcE127bbae7/4e729b36a4342371.jpg",
+        "skuName": "联想（Lenovo） Flex 3 11.6 英寸高清触摸屏<font class=\"skcolor_ljg\">笔记本</font>电脑2合1 谷歌系统 联发科8核  学生、游戏、商业办公 WiFi，蓝牙，网络摄像头 4GB+32GB",
+        "suiteItems": [],
+        "tax": "1",
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "",
+        "commentCount": 0,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10054239310675,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11770349,
+        "shopName": "YINGKE海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10054239310675,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/149236/15/37800/94934/64b00b60Fd691b0ea/fcdb6904e90268d1.jpg",
+        "skuName": "华硕（ASUS） 华硕 C523<font class=\"skcolor_ljg\">笔记本</font> 高清显示屏 4+32GB银色 谷歌",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 12055489,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "",
+        "commentCount": 3,
+        "farfetchFlag": false,
+        "fxg": "0",
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10036350268601,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10036350268601,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/194675/22/35216/65747/64b98737Fa66fe85e/89040fffad82661f.jpg",
+        "skuName": "三星（SAMSUNG）15.6英寸 Chromebook谷歌系统<font class=\"skcolor_ljg\">笔记本</font>电脑 全高清 4+64G",
+        "suiteItems": [],
+        "tax": "1",
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "黑色",
+        "commentCount": 0,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068398987315,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 991679,
+        "shopName": "SOLETRADER海外旗舰店",
+        "shopType": 11,
+        "skuId": 10068398987315,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/183947/6/32703/359635/63e1af47F7c869677/971e6a3fca87c9c7.png",
+        "skuName": "雷蛇Razer Blade 18 游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 RTX4080 第13代英特尔24核i9 CPU 黑色",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 10146044,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "银色15”",
+        "commentCount": 1,
+        "farfetchFlag": false,
+        "fxg": "0",
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 37669022160,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 37669022166,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t27271/126/2194632057/159870/bbb31fba/5bfc9558N2ed63879.jpg",
+        "skuName": "Microsoft  Surface Book 2 二合一平板电脑<font class=\"skcolor_ljg\">笔记本</font>13.5/ 15英寸触控 银色15”   i7, 16GB , 1TB",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "谷歌系统 全高清  IPS 触摸屏",
+        "commentCount": 0,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10057565338634,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10057565338634,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/216595/7/34412/89188/64b98833F83b61cce/62930b700dbc84c3.png",
+        "skuName": "宏碁（acer） Chromebook Spin 513 <font class=\"skcolor_ljg\">笔记本</font>电脑 13.3英寸高通骁龙7c八核 谷歌系统 全高清  IPS 触摸屏 4GB+64GB",
+        "suiteItems": [],
+        "tax": "1",
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "",
+        "commentCount": 0,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10052888423426,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11770349,
+        "shopName": "YINGKE海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10052888423426,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/161585/16/37676/118127/64afdbeeF3d02e280/3f52373bcb7829a6.jpg",
+        "skuName": "联想（Lenovo） 100e 11.6英寸<font class=\"skcolor_ljg\">笔记本</font>电脑第二代 4 32GB谷歌 学生",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 12055489,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "黑色 第12代英特尔酷睿i5-12450H八核处理",
+        "commentCount": 0,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10064111991175,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10064111991175,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/210684/24/27570/32233/635a1f2aE33fb66b6/4722431eea300bc4.jpg",
+        "skuName": "惠普（HP） Victus 15.6 英寸游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 英特尔酷睿i5 Win11 8+512GB 黑色 第12代英特尔酷睿i5-12450H八核处理 8+512GB",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "全高清 IPS 触摸屏 商务办公娱乐",
+        "commentCount": 1,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10067916546513,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 10067916546513,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/185253/35/28580/45608/63bf7781F4aaa239b/d200d4cf481b532e.jpg",
+        "skuName": "联想（Lenovo）IdeaPad Flex 5 14英寸多点触控二合一<font class=\"skcolor_ljg\">笔记本</font>电脑AMD锐龙7八核促 全高清 IPS 触摸屏 商务办公娱乐 大内存 16+512GB Windows 11系统",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "",
+        "commentCount": 1,
+        "farfetchFlag": false,
+        "fxg": "0",
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [55],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 67361008328,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 201436,
+        "shopName": "a axon_us海外官方旗舰店",
+        "shopType": 11,
+        "skuId": 67361008328,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/104101/20/17188/30551/5e8410caE439f1b30/eef747fa6a13b42c.jpg",
+        "skuName": "三星（Samsung）Galaxy Book S高端超轻薄<font class=\"skcolor_ljg\">笔记本</font>电脑13.3英寸触摸屏 8+256G",
+        "suiteItems": [],
+        "thirdCateId": 672,
+        "venderId": 210206,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制 i9 32G 1T 3070Ti",
+        "commentCount": 6,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068930281700,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068930281701,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/198196/16/38992/111966/64b501e5F9705d002/cb6ebc46ef44eaa0.png",
+        "skuName": "外星人（Alienware）全新x17 R2 游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 17.3英寸大屏高端电竞办公 12代酷睿 定制 i9 32G 1T 3070Ti 1920x1080-480HZ 幸运白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13980HX 96G 8T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10077720352800,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/143741/24/35075/155709/64b4b783Ffbb13440/d78113707e24ec02.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13980HX 96G 8T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i7 16G 512G 3050Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051814391547,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/190520/19/35371/117671/64b4bfc1F4c62cc0a/3b69870d6b57c5bb.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 标配i7 16G 512G 3050Ti 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i7 16G 512G 3060机械键盘",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676819,
+        "skuImage": "//img13.360buyimg.com/n7/jfs/t1/106860/19/37710/117663/64b4bfdbF14198ae1/a295fbdf793deea3.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 标配i7 16G 512G 3060机械键盘 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13900HX 16G 1T 4060",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068871524179,
+        "skuImage": "//img13.360buyimg.com/n7/jfs/t1/142384/35/37296/155821/64b4b70aF99180ac4/9fceaff2fc252a06.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 标配i9-13900HX 16G 1T 4060 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13900HK 32G 1T 4090",
+        "commentCount": 39,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051887025972,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051887025980,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/110816/21/41009/112636/64b26c28Fea4f6cd3/5550bd1334c65d77.png",
+        "skuName": "外星人（Alienware）全新x16 R1轻薄高性能本16英寸电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 标配i9-13900HK 32G 1T 4090 2560x1600-240HZ 机械键盘",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13900HK 32G 1T 4080",
+        "commentCount": 39,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051887025972,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051887025972,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/156552/39/37703/112522/64b26c03F28ea26c7/0b11a825719e627d.png",
+        "skuName": "外星人（Alienware）全新x16 R1轻薄高性能本16英寸电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 标配i9-13900HK 32G 1T 4080 2560x1600-240HZ 机械键盘",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i7 64G 2T 3070Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676830,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/126301/8/37982/117724/64b4bfe8F87f69d92/69c55eac73ad63e3.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 定制i7 64G 2T 3070Ti 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13900HX 16G 1T 4080",
+        "commentCount": 10,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068636744398,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068636744398,
+        "skuImage": "//img13.360buyimg.com/n7/jfs/t1/125748/4/37064/124511/64b4dfdeF0ef6820e/089fae08ebab75f9.png",
+        "skuName": "外星人（Alienware）2023全新 m16 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 16英寸酷睿13代 标配i9-13900HX 16G 1T 4080 全球上门 2560x1600-240H 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13980HX 96G 4T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10077720352799,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/143741/24/35075/155709/64b4b783Ffbb13440/d78113707e24ec02.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13980HX 96G 4T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13980HX 64G 1T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10077720352795,
+        "skuImage": "//img13.360buyimg.com/n7/jfs/t1/143741/24/35075/155709/64b4b783Ffbb13440/d78113707e24ec02.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13980HX 64G 1T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i7 32G 1T 3050Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676816,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/190520/19/35371/117671/64b4bfc1F4c62cc0a/3b69870d6b57c5bb.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 定制i7 32G 1T 3050Ti 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13900HX 64G 2T 4080",
+        "commentCount": 10,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068636744398,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068636744401,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/125748/4/37064/124511/64b4dfdeF0ef6820e/089fae08ebab75f9.png",
+        "skuName": "外星人（Alienware）2023全新 m16 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 16英寸酷睿13代 定制i9-13900HX 64G 2T 4080 全球上门 2560x1600-240H 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i7 32G 1T 3060机械键盘",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676820,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/106860/19/37710/117663/64b4bfdbF14198ae1/a295fbdf793deea3.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 定制i7 32G 1T 3060机械键盘 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13980HX 64G 8T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10077720352798,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/143741/24/35075/155709/64b4b783Ffbb13440/d78113707e24ec02.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13980HX 64G 8T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i7-12700H 32G 1T 3060",
+        "commentCount": 17,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10066676931834,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10066676931836,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/199400/8/38478/115961/64b4ff93F3f21dbbd/0d8dfb7c40cb21f5.png",
+        "skuName": "外星人（Alienware）全新X15 R2高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 15.6英寸高性能轻薄便携 标配i7-12700H 32G 1T 3060 上门联保服务 2560x1440-240H 女神白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13900HK 32G 4T 4080",
+        "commentCount": 39,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051887025972,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051887025976,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/156552/39/37703/112522/64b26c03F28ea26c7/0b11a825719e627d.png",
+        "skuName": "外星人（Alienware）全新x16 R1轻薄高性能本16英寸电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 定制i9-13900HK 32G 4T 4080 2560x1600-240HZ 机械键盘",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13900HX 32G 2T 4090",
+        "commentCount": 10,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068636744398,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068883097811,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/182863/8/34806/124340/64b4e018F42baa35e/74fceb6af8f44f26.png",
+        "skuName": "外星人（Alienware）2023全新 m16 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 16英寸酷睿13代 标配i9-13900HX 32G 2T 4090 全球上门 2560x1600-240H 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配 i9 16G 256G 3070Ti",
+        "commentCount": 6,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068930281700,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068930281700,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/198196/16/38992/111966/64b501e5F9705d002/cb6ebc46ef44eaa0.png",
+        "skuName": "外星人（Alienware）全新x17 R2 游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 17.3英寸大屏高端电竞办公 12代酷睿 标配 i9 16G 256G 3070Ti 1920x1080-480HZ 幸运白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i7-13620H 32G 512G 4060",
+        "commentCount": 100,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051878223623,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051878223627,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/108453/5/40505/117121/64b269c5F58e4cdca/647900b825b6fd23.png",
+        "skuName": "外星人（Alienware）2023全新x14 R2轻薄高性能本14英寸游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 标配i7-13620H 32G 512G 4060 2560x1600-165H 幸运银白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配 i7 16G 256G 3070Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676824,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/126301/8/37982/117724/64b4bfe8F87f69d92/69c55eac73ad63e3.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计办公12代酷睿 标配 i7 16G 256G 3070Ti 1920x1080-165H电竞屏 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-12900H 32G 1T 3070Ti",
+        "commentCount": 17,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10066676931834,
+        "productext": -1879022464,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10066676931840,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/198960/19/31989/116090/64b4ffe4Fcc5bba75/b8ff189a3e30414b.png",
+        "skuName": "外星人（Alienware）全新X15 R2高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 15.6英寸高性能轻薄便携 标配i9-12900H 32G 1T 3070Ti 上门联保服务 2560x1440-240H 女神白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13900HK 32G 8T 4090",
+        "commentCount": 39,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051887025972,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051887025983,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/110816/21/41009/112636/64b26c28Fea4f6cd3/5550bd1334c65d77.png",
+        "skuName": "外星人（Alienware）全新x16 R1轻薄高性能本16英寸电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 定制i9-13900HK 32G 8T 4090 2560x1600-240HZ 机械键盘",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13980HX 64G 2T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10077720352796,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/143741/24/35075/155709/64b4b783Ffbb13440/d78113707e24ec02.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13980HX 64G 2T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13900HX 32G 1T 4080",
+        "commentCount": 10,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068636744398,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068636744399,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/125748/4/37064/124511/64b4dfdeF0ef6820e/089fae08ebab75f9.png",
+        "skuName": "外星人（Alienware）2023全新 m16 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 16英寸酷睿13代 定制i9-13900HX 32G 1T 4080 全球上门 2560x1600-240H 星辰黑",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "i9-13900HX/64G/2T/4080升级",
+        "commentCount": 20,
+        "farfetchFlag": false,
+        "goodRate": "75",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068638045230,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 12333311,
+        "shopName": "ZEXUNTONG数码海外专营店",
+        "shopType": 24,
+        "skuId": 10068638045231,
+        "skuImage": "//img13.360buyimg.com/n7/jfs/t1/140375/20/36290/130544/649a8653Fe1b76a40/2ebf6c7709e21fa9.png",
+        "skuName": "外星人（Alienware）m18 R1 2023新品 高端电竞办公游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 i9-13900HX/64G/2T/4080升级 全球上门服务 18英寸 2560*1600-165H",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12721360,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i9-13900HX 64G 8T 4080",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10068878172323,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/142384/35/37296/155821/64b4b70aF99180ac4/9fceaff2fc252a06.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 定制i9-13900HX 64G 8T 4080 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i7-13620H 32G 4T 4060",
+        "commentCount": 100,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051878223623,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10055562660748,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/108453/5/40505/117121/64b269c5F58e4cdca/647900b825b6fd23.png",
+        "skuName": "外星人（Alienware）2023全新x14 R2轻薄高性能本14英寸游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 13代酷睿 定制i7-13620H 32G 4T 4060 2560x1600-165H 幸运银白",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "标配i9-13980HX 32G 1T 4090",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10071498234903,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/139708/5/37602/155610/64b4b740Fdf605ff1/bb486551151f40ac.png",
+        "skuName": "外星人（Alienware）全新m18 R1高端电竞游戏<font class=\"skcolor_ljg\">笔记本</font>电脑 18英寸大屏 13代酷睿 标配i9-13980HX 32G 1T 4090 星辰黑 2560x1600-165H Cherry机械键",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "定制i7 64G 2T 3050Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONG电脑海外专营店",
+        "shopType": 24,
+        "skuId": 10051824676818,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/190520/19/35371/117671/64b4bfc1F4c62cc0a/3b69870d6b57c5bb.png",
+        "skuName": "外星人（Alienware）全新m15 R7高端电竞游戏本<font class=\"skcolor_ljg\">笔记本</font>电脑 游戏设计å¬12ä»£é·ç¿ å®å¶i7 64G 2T 3050Ti 1920x1080-165Hçµç«å± æè¾°é»",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i7 64G 2T 3060æºæ¢°é®ç",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10051824676822,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/106860/19/37710/117663/64b4bfdbF14198ae1/a295fbdf793deea3.png",
+        "skuName": "å¤æäººï¼Alienwareï¼å¨æ°m15 R7é«ç«¯çµç«æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè æ¸¸æè®¾è®¡åå¬12ä»£é·ç¿ å®å¶i7 64G 2T 3060æºæ¢°é®ç 1920x1080-165Hçµç«å± æè¾°é»",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i9-13900HX 64G 4T 4080",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10068878172322,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/139708/5/37602/155610/64b4b740Fdf605ff1/bb486551151f40ac.png",
+        "skuName": "å¤æäººï¼Alienwareï¼å¨æ°m18 R1é«ç«¯çµç«æ¸¸æ<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 18è±å¯¸å¤§å± 13ä»£é·ç¿ å®å¶i9-13900HX 64G 4T 4080 æè¾°é» 2560x1600-165H Cherryæºæ¢°é®",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i9-13900HX 64G 1T 4060",
+        "commentCount": 72,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068871524179,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10068871524181,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/142384/35/37296/155821/64b4b70aF99180ac4/9fceaff2fc252a06.png",
+        "skuName": "å¤æäººï¼Alienwareï¼å¨æ°m18 R1é«ç«¯çµç«æ¸¸æ<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 18è±å¯¸å¤§å± 13ä»£é·ç¿ å®å¶i9-13900HX 64G 1T 4060 æè¾°é» 2560x1600-165H Cherryæºæ¢°é®",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i9-13900HK 32G 2T 4080",
+        "commentCount": 39,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051887025972,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10051887025974,
+        "skuImage": "//img10.360buyimg.com/n7/jfs/t1/156552/39/37703/112522/64b26c03F28ea26c7/0b11a825719e627d.png",
+        "skuName": "å¤æäººï¼Alienwareï¼å¨æ°x16 R1è½»èé«æ§è½æ¬16è±å¯¸çµç«æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 13ä»£é·ç¿ å®å¶i9-13900HK 32G 2T 4080 2560x1600-240HZ æºæ¢°é®ç",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i7 64G 1T 3050Ti",
+        "commentCount": 76,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051814391547,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10051824676817,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/190520/19/35371/117671/64b4bfc1F4c62cc0a/3b69870d6b57c5bb.png",
+        "skuName": "å¤æäººï¼Alienwareï¼å¨æ°m15 R7é«ç«¯çµç«æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè æ¸¸æè®¾è®¡åå¬12ä»£é·ç¿ å®å¶i7 64G 1T 3050Ti 1920x1080-165Hçµç«å± æè¾°é»",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "i9-13900HX/64G/1T/4090åçº§",
+        "commentCount": 20,
+        "farfetchFlag": false,
+        "goodRate": "75",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10068638045230,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 12333311,
+        "shopName": "ZEXUNTONGæ°ç æµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10069249855618,
+        "skuImage": "//img11.360buyimg.com/n7/jfs/t1/106161/38/36840/131118/6492d671Ff76b8391/70d8a814391c19cc.png",
+        "skuName": "å¤æäººï¼Alienwareï¼m18 R1 2023æ°å é«ç«¯çµç«åå¬æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 13ä»£é·ç¿ i9-13900HX/64G/1T/4090åçº§ å¨çä¸é¨æå¡ 18è±å¯¸ 2560*1600-165H",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12721360,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "æ éi5-13420H 16G 512G 3050",
+        "commentCount": 100,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051878223623,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10051878223623,
+        "skuImage": "//img14.360buyimg.com/n7/jfs/t1/223673/11/21420/117324/64b269a0F4fe13bc7/8c69f4871dcd9e26.png",
+        "skuName": "å¤æäººï¼Alienwareï¼2023å¨æ°x14 R2è½»èé«æ§è½æ¬14è±å¯¸æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 13ä»£é·ç¿ æ éi5-13420H 16G 512G 3050 2560x1600-165H å¹¸è¿é¶ç½",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      },
+      {
+        "colorItems": [],
+        "colorName": "å®å¶i7-13620H 32G 1T 4060",
+        "commentCount": 100,
+        "farfetchFlag": false,
+        "goodRate": "100",
+        "isCanUseDQ": 1,
+        "isCanUseJQ": 1,
+        "isOverseaPurchase": "2",
+        "isQuaTrace": "0",
+        "pf": [],
+        "plus95": 0,
+        "presaleType": 0,
+        "productId": 10051878223623,
+        "productext": 268461184,
+        "promotionList": [],
+        "promotionType": 0,
+        "shopId": 11874139,
+        "shopName": "ZEXUNTONGçµèæµ·å¤ä¸è¥åº",
+        "shopType": 24,
+        "skuId": 10052320493508,
+        "skuImage": "//img12.360buyimg.com/n7/jfs/t1/108453/5/40505/117121/64b269c5F58e4cdca/647900b825b6fd23.png",
+        "skuName": "å¤æäººï¼Alienwareï¼2023å¨æ°x14 R2è½»èé«æ§è½æ¬14è±å¯¸æ¸¸ææ¬<font class=\"skcolor_ljg\">ç¬è®°æ¬</font>çµè 13ä»£é·ç¿ å®å¶i7-13620H 32G 1T 4060 2560x1600-165H å¹¸è¿é¶ç½",
+        "suiteItems": [],
+        "thirdCateId": 1105,
+        "venderId": 12167159,
+        "venderType": 0
+      }
+    ]
+  },
+  "code": "0",
+  "success": true
+}

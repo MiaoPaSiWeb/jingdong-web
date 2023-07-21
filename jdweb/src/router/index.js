@@ -26,6 +26,7 @@ export default new VueRouter({
     },
     {
       path: "/search",
+      name: "soso",
       component: Search,
     },
     {

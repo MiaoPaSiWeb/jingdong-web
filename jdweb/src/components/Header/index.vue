@@ -82,7 +82,8 @@ export default {
       }
     },
     searchHandleClick() {
-      alert("去搜索");
+      let location = { name: "soso" };
+      this.$router.push(location);
     },
     shopcarttHandleClick() {
       alert("去购物车");
