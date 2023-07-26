@@ -29,7 +29,7 @@
           v-for="(carouser, index) in testArr"
           :key="index"
         >
-          <img :src="'https://img10.360buyimg.com/img/' + carouser.img" />
+          <img :src="imagePrefix + carouser.img" />
           <p class="jd-common-title name">
             <span class="more2_info_self"> 自营 </span>
             {{ carouser.t }}
@@ -57,6 +57,7 @@ export default {
   components: { Floorhd },
   data() {
     return {
+      imagePrefix: this.$mConfig.imagePrefix,
       feedTabIndex: 0,
       feedTabs: [
         { title: "精选", desc: "猜你喜欢" },
