@@ -1,12 +1,16 @@
 <template>
   <div>
     <div class="sl-wrap">
-      <div class="sl-key">{{ slTitle || "??" }}</div>
+      <div class="sl-key">{{ slTitle || "品牌" }}</div>
       <div class="sl-value">
         <ul class="sl-v-list">
-          <li v-for="attr in slList" :key="attr.id">
-            <div class="ext">
-              <span>{{ attr.name }}</span>
+          <li
+            v-for="(item, index) in slList"
+            :key="item.id"
+            v-show="index < showMaxNUM"
+          >
+            <div class="brand">
+              <img :src="imagePrefix + item.logoUrl" />
             </div>
           </li>
         </ul>
@@ -18,8 +22,18 @@
 
 <script>
 export default {
-  name: "JSelector",
+  name: "JSelectorBrand",
   props: ["slTitle", "slList"],
+  data() {
+    return {
+      imagePrefix: this.$mConfig.imagePrefix,
+    };
+  },
+  computed: {
+    showMaxNUM() {
+      return 16;
+    },
+  },
 };
 </script>
 
@@ -49,11 +63,22 @@ export default {
       flex-wrap: wrap;
 
       li {
-        .ext {
-          padding: 10px 15px;
+        .brand {
+          border: 1px solid #eee;
 
-          span {
-            cursor: pointer;
+          img {
+            width: 120px;
+            height: 48px;
+            object-fit: cover;
+            transition: all 0.5s;
+          }
+
+          &:hover {
+            border: 1px solid red;
+
+            img {
+              transform: scale(0.9);
+            }
           }
         }
 

@@ -95,10 +95,11 @@ export default {
 <style lang="less" scoped>
 #header {
   background: #fff;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid red;
   .container {
     height: 140px;
     position: relative;
+    background-color: #fff;
     .logo {
       position: absolute;
       display: block;

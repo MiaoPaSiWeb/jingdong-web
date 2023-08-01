@@ -1,106 +1,34 @@
 <template>
   <div id="J_selector" class="selector">
     <!-- 【筛选项】品牌 -->
-    <JSelectorLine slTitle="品牌" :slList="selectors.brands" showType="0" />
+    <JSelectorBrand :slList="selectors.brands" />
     <!-- 其他筛选项 -->
     <div
-      class="J_selectorLine"
       v-for="(cate, index) in selectors.extCates"
       :key="cate.id"
       v-show="index < 3"
     >
-      <div class="sl-wrap">
-        <div class="sl-key">{{ cate.name }}</div>
-        <div class="sl-value">
-          <div class="sl-v-list">
-            <ul class="J_valueList">
-              <li v-for="attr in cate.extAttrs" :key="attr.id">
-                <div class="ext">
-                  <span>{{ attr.name }}</span>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="sl-ext"></div>
-      </div>
+      <JSelector :slTitle="cate.name" :slList="cate.extAttrs" showType="0" />
     </div>
     <!-- 高级筛选项 -->
-    <div
-      class="J_selectorLine"
-      @mouseenter="selectorMouse($event, 0)"
-      @mouseleave="selectorMouse($event, 1)"
-    >
-      <!-- 弹出框 -->
-      <div
-        v-show="hightSelectorPop && hightSelectorPopIndex != -1"
-        class="hight-selector-pop"
-      >
-        {{ hightSelectorPopData }}
-      </div>
-      <!-- 内容 -->
-      <div class="sl-wrap">
-        <div class="sl-key">{{ "高级选项" }}</div>
-        <div class="sl-value">
-          <div class="sl-v-list">
-            <ul class="J_valueList">
-              <li
-                v-for="(cate, index) in selectors.extCates"
-                :key="cate.id"
-                v-show="index >= 3 && index < 12"
-                @mouseenter="selectorItemMouseenter($event, index, cate)"
-              >
-                <div
-                  class="heightExt"
-                  :class="{
-                    'heightExt-active':
-                      index == hightSelectorPopIndex ? true : false,
-                  }"
-                >
-                  <span>{{ cate.name }}</span>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="sl-ext">???</div>
-      </div>
-    </div>
+    <JSelectorHight :slList="selectors.extCates" />
   </div>
 </template>
 
 <script>
-import JSelectorLine from "./components/JSelectorLine";
+import JSelectorBrand from "./components/JSelectorBrand";
+import JSelector from "./components/JSelector";
+import JSelectorHight from "./components/JSelectorHight";
 export default {
   name: "JDSelector",
-  components: { JSelectorLine },
+  components: { JSelectorBrand, JSelector, JSelectorHight },
   props: {
     selectors: Object,
   },
   data() {
-    return {
-      imagePrefix: this.$mConfig.imagePrefix,
-      hightSelectorPopIndex: -1,
-      hightSelectorPop: false,
-      hightSelectorPopData: {},
-    };
+    return {};
   },
-  methods: {
-    selectorItemMouseenter(e, index, cate) {
-      console.log(e, cate.name);
-      this.hightSelectorPopIndex = index;
-      this.hightSelectorPopData = cate;
-    },
-    selectorMouse(e, type) {
-      console.log(e);
-      if (type == 0) {
-        this.hightSelectorPop = true;
-      } else {
-        this.hightSelectorPopIndex = -1;
-        this.hightSelectorPop = false;
-      }
-    },
-  },
+  methods: {},
 };
 </script>
 
