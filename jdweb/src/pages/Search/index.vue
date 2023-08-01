@@ -21,7 +21,7 @@
               <div class="top-filter">top-filter</div>
               <div class="btm-filter">btm-filter</div>
             </div>
-            <ul>
+            <ul class="clearfix">
               <li v-for="good in testArr" :key="good.id">
                 <div class="img-wrap">
                   <img :src="'https://' + good.skuImage" />
@@ -30,6 +30,14 @@
                 <div v-html="good.skuName"></div>
               </li>
             </ul>
+            <!-- 分页器 -->
+            <Pagination
+              :pageNo="searchParams.pageNo"
+              :pageSize="searchParams.pageSize"
+              :total="selectors.totalItem"
+              :continues="5"
+              @getPageNo="getPageNo"
+            />
           </div>
         </div>
       </div>
@@ -52,7 +60,11 @@ export default {
       testArr: [],
       isLoading: false,
       isNoMore: false,
-      page: 1,
+      searchParams: {
+        pageNo: 1,
+        //代表的是每一个展示数据个数
+        pageSize: 48,
+      },
     };
   },
   mounted() {
@@ -70,19 +82,21 @@ export default {
     },
     async getListData() {
       this.isLoading = true;
-      console.log("加载中 ---- ", this.page);
+      console.log("加载中 ---- ", this.searchParams.pageNo);
       try {
-        let result = await this.$API.reqGetSearchResult(this.page);
+        let result = await this.$API.reqGetSearchResult(
+          this.searchParams.pageNo
+        );
         this.selectors = result.result;
-        let test = [...this.testArr, ...(result.result.items || [])];
+        let test = [...(result.result.items || [])];
         this.testArr = test;
         console.log("加载结束 ---- ");
         this.isLoading = false;
       } catch (error) {
         console.log("加载失败 ---- ", error.response);
-        this.page--;
-        if (this.page < 0) {
-          this.page = 0;
+        this.searchParams.pageNo--;
+        if (this.searchParams.pageNo < 0) {
+          this.searchParams.pageNo = 0;
         }
         this.isLoading = false;
         if (error.response && error.response.status == 404) {
@@ -92,7 +106,19 @@ export default {
     },
     reversedMessage(good) {
       const priceInfo = this.selectors.itemPriceInfo[good.skuId];
-      return priceInfo.price.jdPrice;
+      if (priceInfo && priceInfo.price) {
+        return priceInfo.price.jdPrice;
+      } else {
+        return "";
+      }
+    },
+    // 自定义事件的回调函数---获取当前第几页
+    getPageNo(pageNo) {
+      // console.log(pageNo);
+      //整理带给服务器参数
+      this.searchParams.pageNo = pageNo;
+      // 再次发送请求
+      this.getListData();
     },
   },
 };
@@ -147,13 +173,12 @@ div {
     flex: 1;
     background-color: #eee;
     ul {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 0px;
       background-color: #fff;
       li {
+        float: left;
+        width: 24.8%;
+        height: 417px;
         border: 1px solid #eee;
-        padding: 12px;
         .img-wrap {
           display: flex;
           justify-content: center;

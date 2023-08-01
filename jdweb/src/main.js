@@ -10,7 +10,8 @@ import $mSettingConfig from "@/config/setting.config.js";
 // 引入全局方法
 
 // 引入全局组件
-
+// 分页器--全局组件
+import Pagination from "@/components/pagnation/index.vue";
 // 引入VueRouter
 import VueRouter from "vue-router";
 import router from "./router";
@@ -26,6 +27,10 @@ Vue.use(VueRouter);
 
 // 引入swiper
 import "swiper/css/swiper.css";
+
+// 注册全局组件
+// 第一个参数组件的名字,第二个参数哪一个组件
+Vue.component(Pagination.name, Pagination);
 
 // 挂载全局自定义方法
 Vue.prototype.$API = API;
