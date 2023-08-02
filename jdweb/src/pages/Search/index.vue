@@ -93,15 +93,17 @@ export default {
         console.log("加载结束 ---- ");
         this.isLoading = false;
       } catch (error) {
-        console.log("加载失败 ---- ", error.response);
-        this.searchParams.pageNo--;
-        if (this.searchParams.pageNo < 0) {
-          this.searchParams.pageNo = 0;
-        }
+        console.log("加载失败 ---- ", error.message);
+        this.testArr = [];
         this.isLoading = false;
-        if (error.response && error.response.status == 404) {
-          this.isNoMore = true;
-        }
+        // 获取页面滚动高度
+        var scrollTop =
+          window.pageYOffset ||
+          document.documentElement.scrollTop ||
+          document.body.scrollTop;
+        console.log("scrollTop:" + scrollTop);
+        // 滚回页面顶部
+        window.scrollTo(0, 0);
       }
     },
     reversedMessage(good) {

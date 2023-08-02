@@ -38,7 +38,7 @@ requests.interceptors.response.use(
   },
   (error) => {
     nprogress.done();
-    console.log(error);
+    console.log(error.message);
     return Promise.reject(error); //响应失败的回调函数 终止promise链
   }
 );
